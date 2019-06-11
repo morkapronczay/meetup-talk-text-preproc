@@ -1,0 +1,43 @@
+James Watt (1736. január 19. – 1819. augusztus 25.) skót feltaláló és mérnök, aki a gőzgép fejlesztésével lényegesen hozzájárult az ipari forradalomhoz. Róla nevezték el a teljesítmény mértékegységét (watt) az SI rendszerben.
+Le kell szögeznünk, hogy a közhittel ellentétben Watt nem találta fel a gőzgépet. Watt születésekor Thomas Newcomen gőzgépei már Anglia-szerte üzemeltek. Watt találmánya egy új, fontos részegység, a vízgőz lecsapására szolgáló gőzkondenzátor volt, amellyel a gép hatásfokát, gazdaságosságát növelte meg jelentősen.
+
+
+== Életrajza ==
+
+
+=== Korai évek ===
+James Watt 1736. január 19-én született a skóciai Clyde folyó torkolatában fekvő kis kikötőben, Greenockban. Apja jómódú hajóács, hajótulajdonos és vállalkozó volt, édesanyja, Agnes Muirhead előkelő családból származott és jó nevelést kapott. Mindketten presbiteriánusok voltak. Watt nem járt rendszeresen iskolába, hanem édesanyja tanította. Kiváló kézügyessége mellett tehetsége volt a matematikához, és lelkesen hallgatta a skót nép történetét és legendáit.
+Mikor Watt 17 éves volt, édesanyja elhunyt, és apja szerencséje is kezdett elpártolni. Watt Londonba utazott, ahol egy évig mérőműszerek készítését tanulta, majd visszatért Skóciába, és Glasgowban műszergyártó vállalkozásba kezdett. Mivel azonban nem töltötte le hétéves mesterlegénységét egy műszerész műhelyében, a Glasgow-i Hammermen Guild (az a céh, amely az összes, kalapáccsal dolgozó mestert összefogta) meggátolta működését annak ellenére, hogy egyetlen más matematikai műszerkészítő sem volt Skóciában.
+Wattot a Glasgow-i Egyetem (University of Glasgow) professzorai mentették meg, akik 1757-ben engedélyezték, hogy kis műhelyt nyisson az egyetem területén. Az egyik professzor, a fizikával és kémiával foglalkozó Joseph Black Watt jó barátja és támogatója lett.
+1767-ben Watt feleségül vette unokatestvérét, Margaret Millert, akitől öt gyermeke született.
+
+
+=== A gőzgép ===
+
+Watt négy évvel műhelye megnyitása után barátja, Robinson professzor tanácsára a gőzzel kezdett kísérletezni. Annak ellenére, hogy még egyetlen működő gőzgépet sem látott, megkísérelt egy gőzgép-modellt szerkeszteni. Ez először nem működött kielégítően, de Watt nem adta fel a kísérletezést, és elolvasott minden hozzáférhető irodalmat a témáról. Másoktól függetlenül rájött a rejtett hő jelentőségére a gép működésében.
+Amikor 1763-ban megtudta, hogy az egyetemnek van egy Newcomen-féle gőzgépe, de azt Londonba vitték javíttatni, rávette az egyetemet, hogy szállíttassák vissza, és vele javíttassák meg. A szerkezet épp hogy csak működött. Hosszas kísérletezés után Watt megállapította, hogy a gőz hőjének mintegy 80%-a a henger felfűtésére fordítódik, mivel ebben a gőzgépben a hengerbe hideg vizet fecskendezve kondenzálták le a gőzt. Javasolta, hogy a gőzt ne a hengerben, hanem egy külön kamrában csapassák le, és akkor a henger nem hűl le a beáramló gőz hőmérséklete alá. Javaslatának életképességét 1765-ben egy működő modellen mutatta be külföldön.
+Ezután nagy munkába kezdett egy ipari méretű gőzgép elkészítéséért. Ehhez több tőkére volt szüksége, és ennek egy részét Blacktől szerezte meg. Sokkal jelentősebb volt John Roebuck, a híres Carron Vasgyár alapítójának támogatása – ő Watt üzlettársa lett. A fő nehézséget a dugattyú és a henger megmunkálása okozta. Az akkori idők vasmunkásai inkább kovácsok voltak, mint gépészek, így az eredmény sok kívánnivalót hagyott maga után. A tőke nagy részét a szabadalom megszerzése emésztette fel, amihez akkoriban a parlament jóváhagyása kellett. Hogy biztosítsa az anyagiakat, Watt kénytelen volt 8 éven át földméréssel pénzt keresni. Roebuck tönkrement, és a szabadalmi jogokat Matthew Boulton, a Soho öntöde tulajdonosa szerezte meg. Boulton és Watt rendkívül sikeres együttműködést alakított ki – a következő huszonöt évben végig együtt dolgoztak.
+Watt végül maga köré gyűjtötte az akkori világ néhány legjobb vasmunkását. John Wilkinson oldotta meg azt a problémát, hogyan gyárthatnának nagy átmérőjű hengert egy viszonylag szoros illesztésű dugattyúval – speciális fúrási technológiát dolgozott ki ágyúcsövek megmunkálásához. 1776-ban helyezték végre üzembe az első ipari gőzgépeket. Ezek szivattyút hajtottak, és csak alternáló mozgást végeztek. A megrendelések özönleni kezdtek, és a következő öt évben Watt sok gőzgépet készített főleg a cornwalli szénbányák számára a bányavíz szivattyúzásához.
+A találmány alkalmazási területe a köszörüléssel, fűrészeléssel és őrléssel bővült ki, amikor Boulton ösztönzésére Watt forgó mozgásra képes gőzgépet kezdett készíteni. Bár a forgattyús hajtómű alkalmazása lett volna logikus és kézenfekvő, Boultont és Wattot eltérítette ettől, hogy annak szabadalomának tulajdonosai,  James Pickard és társai azt javasolták, hogy cseréljék ki a külső kondenzátor és a forgattyús tengely licencét, de ezt Watt hevesen ellenezte. A szabadalom kikerülése végett Watték 1781-ben előrukkoltak saját találmányukkal: egy napkerék-bolygókerék áttétellel (ami nem azonos a bolygókerék-napkerék - más néven bolygómű - hajtással).
+A következő hat évben egy sor újítást vezetett be a gőzgépen. A legfontosabbak: a kettős működésű gőzgép, ahol a gőzt felváltva a dugattyú két oldalára vezették; fojtószeleppel vezérelni tudta a gőzgép teljesítményét; a centrifugál regulátor pedig meggátolta, hogy a gép megfusson. Ez a regulátor maradt Wattnak az az ötlete, amely szinte változatlan formában maradt fenn egész napjainkig (a másik a lóerő fogalma és mértéke). Leírta a többhengeres (compound) gőzgépet, és erre két további szabadalmat kapott 1781-ben és 1782-ben. Sok más újítás a könnyebb gyárthatóságot és szerelhetőséget segítette. Ezek egyike a hengertérfogat és a gőznyomás diagramját felrajzoló indikátor megalkotása volt – a műszert Watt üzleti titokként kezelte. Ugyancsak nagyon büszke volt másik fontos találmányára, a párhuzamos egyenesbe vezető mechanizmusra, amire 1784-ben kapott szabadalmat. Ezekkel az újításokkal elérte, hogy gőzgépei könnyen kezelhetőek lettek és ötször kevesebb tüzelőanyagot használtak, mint Newcomen gépei.
+A kazánrobbanás veszélye és a tömítési nehézségek miatt Watt ellenezte a nagy nyomású gőz használatát; minden gépe közel atmoszferikus nyomáson üzemelt.
+1794-ben megalapították a Boulton és Watt Vállalatot kizárólag gőzgépek gyártására, és ez fokozatosan nagyvállalkozássá nőtte ki magát. 1826-ig 1164 gőzgépet készítettek el összesen mintegy 26 000 lóerő teljesítménnyel. Boulton kiváló üzletembernek bizonyult, és mindketten megtalálták számításaikat.
+
+
+=== Utolsó évei ===
+James Watt 1800-ban vonult nyugalomba, abban az évben, amikor társulása Boultonnal véget ért és az alapvető szabadalma lejárt. A vállalkozást átvették az alapítók fiai: Boulton fia, Matthew Robinson Boulton és Watté: ifjabb James Watt. William Murdoch a társuk lett, és az üzlet virágzott. Watt eközben új találmányokkal kezdett foglalkozni. Feltalálta a távcsöves távolságmérés új módszerét, egy berendezést levelek másolására, tökéletesítette az olajlámpa szerkezetét; készített egy gőzzel hajtott mángorlót és egy eszközt szobrok másolására. Második feleségével Németországba és Franciaországba utazott, és földbirtokot vásárolt Walesben, amit jelentősen megnövelt. 1819. augusztus 19-én, 83 éves korában halt meg  a handsworthi Heathfield Hall nevű házában.
+
+
+== Jegyzetek ==
+
+
+== Források ==
+Greguss Ferenc: Élhetetlen feltalálók, halhatatlan találmányok (3. kiadás, Szalay Könyvkiadó és Kereskedőház Kft., 1997)
+
+
+== További információk ==
+James Watt by Thomas H. Marshal (angolul)
+James Watt by Andrew Carnegie (angolul)
+Important Scots (angolul)
+BBC History: James Watt (angolul)
+Watt négycsuklós egyenesbevezetőjének animációja (Java-Applet) (angolul)

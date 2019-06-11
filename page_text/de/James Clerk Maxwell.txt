@@ -1,0 +1,120 @@
+James Clerk Maxwell (* 13. Juni 1831 in Edinburgh; † 5. November 1879 in Cambridge) war ein schottischer Physiker. Er entwickelte einen Satz von Gleichungen (die Maxwell-Gleichungen), welche die Grundlagen der Elektrizitätslehre und des Magnetismus bilden. Sie sind eine der wichtigsten Leistungen der Physik und Mathematik des 19. Jahrhunderts. 1866 entwickelte er die kinetische Gastheorie und gilt damit als einer der Begründer der Statistischen Mechanik neben dem später wirkenden Ludwig Boltzmann. Die klassische Geschwindigkeitsverteilung von Gasmolekülen (Maxwell-Boltzmann-Verteilung) ist nach beiden benannt. Er veröffentlichte im Jahre 1861 die erste Farbfotografie als Nachweis für die Theorie der additiven Farbmischung.
+Maxwell war der letzte Repräsentant der jüngeren Linie der bekannten schottischen Familie Clerk of Penicuik. 1858 heiratete er Katherine Mary Dewar, Tochter des Prinzipals des Marischal College in Aberdeen. Die Ehe blieb kinderlos. Maxwell starb im Alter von 48 Jahren in Cambridge an Magenkrebs.
+
+
+== Bedeutung ==
+
+Maxwell wird im Allgemeinen als der Naturwissenschaftler des 19. Jahrhunderts mit dem größten Einfluss auf die Physik des 20. Jahrhunderts angesehen. Er lieferte Beiträge zu grundlegenden Naturmodellen und galt als Brückenbauer zwischen Mathematik und Physik. Bereits wenige Jahre nach seinem Tod war James Clerk Maxwells Bedeutung für die Naturwissenschaften weltweit akzeptiert, ohne dass man sich in der Würdigung damals – wie häufig später – vor allem auf seine Erforschung des Elektromagnetismus beschränkte. 1931, zum hundertsten Jahrestag von Maxwells Geburt, beschrieb Albert Einstein dessen Werk als „das Tiefste und Fruchtbarste, das die Physik seit Newton entdeckt hat“.
+Algebra mit Elementen der Geometrie zu vereinen, ist ein Grundzug seines Werks. Maxwell zeigte, dass elektrische und magnetische Kräfte zwei sich ergänzende Erscheinungen des Elektromagnetismus sind. Er zeigte, dass sich elektrische und magnetische Felder in Form von elektromagnetischen Wellen mit einer konstanten Geschwindigkeit von etwa 3·108 m/s durch den Raum bewegen können, was genau der Lichtgeschwindigkeit entspricht. Er postulierte, dass das Licht eine Form von elektromagnetischer Strahlung sei.
+Maxwell hat die Ergebnisse von vorhergehenden elektromagnetischen und optischen Experimenten und Beobachtungen in einer Serie von mathematischen Gleichungen zusammengefasst. Diese Gleichungen (wie auch die Maxwellverteilung) haben sich seitdem in der Physik als außerordentlich nützlich erwiesen. Sie haben sich in allen Fällen bewährt und einige neue Gesetze des Elektromagnetismus und der Optik hervorgebracht, die wichtigsten über elektromagnetische Strahlung. Die Gleichungen sind grundlegend für Radio und Fernsehen und können für die Untersuchung von Röntgenstrahlung, Gammastrahlung und Infrarotstrahlung und andere Formen von Strahlung benutzt werden.
+
+
+== Leben ==
+
+
+=== Frühe Jahre ===
+
+Maxwell wurde als einziges Kind des Rechtsanwalts John Clerk Maxwell aus Edinburgh in der India Street 14 in der schottischen Hauptstadt Edinburgh geboren. Maxwells frühe Erziehung, die auch das Bibelstudium umfasste, wurde ihm durch seine christliche Mutter zuteil. Seine frühe Jugend verbrachte er zumeist auf dem Familiensitz Glenlair bei Dumfries. Maxwells Mutter starb, als er erst acht Jahre alt war. Später ging Maxwell zur Edinburgh Academy. Sein Spitzname in der Schule war „Dafty“ (Dussel oder Sonderling). Er bekam ihn, weil er am ersten Schultag selbstgemachte Schuhe trug. 1845, im Alter von 14 Jahren, schrieb Maxwell eine Arbeit, die den Weg beschreibt, mit einer Schnur mathematische Kurven zu zeichnen.
+
+
+=== Mittlere Jahre ===
+1847 schrieb sich Maxwell an der Universität Edinburgh ein und studierte Naturphilosophie, Moralphilosophie und mentale Philosophie. In Edinburgh studierte er bei Sir William Hamilton. 18-jährig, immer noch Student in Edinburgh, schrieb er zwei Beiträge für die Transactions of the Royal Society of Edinburgh, von denen einer, On the Equilibrium of Elastic Solids (Über das Gleichgewicht von elastischen Festkörpern), die Grundlage für eine einzigartige Entdeckung in seinem späteren Leben legte, die zeitweilige Doppelbrechung in viskosen Flüssigkeiten durch Scherkräfte.
+1850 wechselte Maxwell zur Universität Cambridge. Zuerst schrieb er sich am Peterhouse ein, ging dann aber zum Trinity-College, weil er glaubte, hier leichter ein Stipendium zu bekommen. Am Trinity-College wurde er in eine geheime Verbindung, bekannt als die Cambridge Apostles, gewählt. Im November 1851 studierte Maxwell bei seinem Tutor William Hopkins, dessen Spitzname „wrangler-maker“ war („Wrangler“ sind Studenten, die die mathematische Prüfung am besten bestehen). Einen großen Teil der Ausarbeitungen seiner elektromagnetischen Gleichungen vollendete Maxwell, als er noch Student ohne Abschluss war.
+1854 schloss Maxwell sein Studium mit der zweitbesten Mathematikprüfung seines Jahrgangs ab. Direkt nach seinem Studienabschluss veröffentlichte er eine wissenschaftliche Abhandlung On Faraday’s Lines of Force (Über Faradays Kraftlinien), in der er einen ersten Hinweis auf seine elektrischen Forschungen gab, die im bedeutendsten Werk seines Lebens ihren Höhepunkt finden sollten.
+
+Von 1855 bis 1872 veröffentlichte er in Abständen eine Serie von wertvollen Forschungen im Zusammenhang mit dem Farbsehen und der Farbblindheit. Die Instrumente, die er für diese Forschungen benutzte, waren einfach und zweckdienlich (z. B. Farbkreisel). „Für seine Forschungen über die Zusammensetzung der Farben und andere Beiträge zur Optik“ wurde er von der Royal Society 1860 mit der Rumford-Medaille ausgezeichnet.
+1861 veröffentlichte er die erste Farbfotografie als Nachweis für die Theorie der additiven Farbmischung.
+1856 wurde Maxwell auf den Lehrstuhl für Naturphilosophie am Marischal College in Aberdeen berufen, den er bis zur Zusammenlegung mit dem King's College im Jahre 1860 innehatte.1856 gewann er den Adams-Preis in Cambridge für einen originellen Aufsatz, mit dem er nachwies, dass die Saturnringe weder flüssig sind noch kompakte Festkörper, sondern dass eine Stabilität nur herrschen könne, wenn sie aus einer Vielzahl nicht zusammen hängender kleiner fester Körper bestehen. Er widerlegte auch mathematisch die Nebeltheorie, die besagt, dass sich Galaxien durch die fortschreitende Kondensation von gasförmigen Nebeln bilden. Nach seiner Theorie sind dafür Anteile kleiner Festkörper notwendig.
+1860 wurde Maxwell Professor am King’s College London.
+1861 wurde er als Mitglied („Fellow“) in die Royal Society gewählt. Er arbeitete in dieser Zeit über elastische Körper und reine Geometrie.
+
+
+==== Kinetische Gastheorie ====
+Eine von Maxwells wichtigsten Forschungen beschäftigte sich mit der kinetischen Gastheorie. Beginnend mit Daniel Bernoulli wurde diese Theorie weiter ausgearbeitet durch die folgenden Untersuchungen von John Herapath, John James Waterston, James Prescott Joule und besonders durch Rudolf Clausius. Sie erreichte eine solche Vollkommenheit, dass ihre Vorhersagegenauigkeit sie über jeden Zweifel erhaben machte. Maxwell, der sich auf diesem Gebiet als glänzender Experimentator und Theoretiker zeigte, entwickelte sie überlegen weiter.
+Im Jahre 1865 verlegte Maxwell seinen Wohnsitz nach Glenlair in Kirkcudbrightshire, auf das Landgut, das er von seinem Vater John Clerk Maxwell geerbt hatte.1868 verzichtete er auf den Lehrstuhl für Physik und Astronomie am King’s College in London.
+1860 formulierte er die später von Ludwig Boltzmann verallgemeinerte kinetische Gastheorie. Seine Formel, genannt Maxwell-Verteilung, berechnet den Anteil von Gasmolekülen, die sich bei einer gegebenen Temperatur mit einer bestimmten Geschwindigkeit bewegen. In der kinetischen Gastheorie bewirken Temperatur und Druck die Bewegung der Moleküle. Diese Annäherung an den Forschungsgegenstand verallgemeinerte die vorhergehenden Gesetze der Thermodynamik und erklärte die Beobachtungen und Experimente genauer. Maxwells Arbeiten über Thermodynamik führten ihn zu einem Gedankenexperiment, das unter dem Namen „maxwellscher Dämon“ bekannt wurde.
+
+
+==== Elektromagnetismus ====
+
+Als sich Maxwell für die Elektrizität zu interessieren begann, schrieb er William Thomson, 1. Baron Kelvin, und fragte diesen, wie er am besten vorgehen solle. Kelvin empfahl, dass Maxwell die veröffentlichten Werke von Faraday, Kelvin, Ampère und dann die der deutschen Physiker lesen solle, und zwar in der angegebenen Reihenfolge.
+Der größte Teil von Maxwells Lebenswerk war der Erforschung der Elektrizität gewidmet. Maxwells wichtigster Beitrag war die Ausarbeitung und mathematische Formulierung von früheren Forschungen über Elektrizität und Magnetismus durch Michael Faraday, André-Marie Ampère und anderen in einem System miteinander verknüpfter Differentialgleichungen. Hiermit untermauerte er die seit Beginn des 19. Jahrhunderts verbreitete Hypothese der Identität der Elektrizität und des Magnetismus durch ein plausibles mathematisches Modell. Anfangs waren es 20 Gleichungen, die später durch die Vektorschreibweise zusammengefasst wurden. Diese Gleichungen, die heute insgesamt als Maxwellgleichungen (oder manchmal als „Maxwells wunderbare Gleichungen“) bezeichnet werden, wurden erstmals 1864 in der Royal Society veröffentlicht. Zusammen beschreiben sie das Verhalten sowohl von elektrischen als auch magnetischen Feldern, sowie ihre Wechselwirkung mit Materie. Darüber hinaus sagte Maxwell Wellen von schwingenden elektrischen und magnetischen Feldern voraus, die sich durch den leeren Raum bewegen. Die Geschwindigkeit konnte er aus einfachen elektrischen Experimenten vorhersagen; indem er die Daten benutzte, die damals zur Verfügung standen, berechnete er die Ausbreitungsgeschwindigkeit zu 310.740.000 m/s. Maxwell schrieb 1864:
+
+Maxwells Annahme war im Wesentlichen richtig. Die Wellentheorie wurde später durch Experimente von Heinrich Hertz bestätigt und bildet die Grundlage der gesamten Funktechnik. Die quantitative Verbindung zwischen Licht und Elektromagnetismus wird als ein großer Triumph der Physik des 19. Jahrhunderts angesehen. Zu dieser Zeit glaubte Maxwell, die Ausbreitung des Lichtes erfordere ein Medium, in welchem die Wellen sich fortpflanzen könnten. Über dieses Medium, das Lichtäther genannt wurde, verfasste Maxwell einen 1878 in der Encyclopædia Britannica erschienen Eintrag mit folgender Zusammenfassung am Ende:
+
+Im Laufe der Zeit ergaben sich jedoch immer größere Schwierigkeiten, die Existenz eines solchen Mediums, das den ganzen Raum erfüllte, aber durch mechanische Mittel unauffindbar war, mit den Ergebnissen der Experimente wie z. B. dem Michelson-Morley-Experiment in Einklang zu bringen. Darüber hinaus schien es ein absolutes Bezugssystem, in welchem die Gleichungen gültig waren, zu benötigen. Dies hätte zur Folge gehabt, dass die Gleichungen für einen bewegten Beobachter eine andere Form gehabt hätten. Diese Schwierigkeit regte Einstein zur Formulierung der speziellen Relativitätstheorie an und in diesem Prozess verneinte Einstein die Notwendigkeit eines Lichtäthers.
+
+
+=== Baustatik ===
+Weniger bekannt, aber auf einzelwissenschaftlicher Ebene bahnbrechend, sind Maxwells Beiträge zur Fachwerktheorie und zur graphischen Statik. So bewertet Erhard Scholz die 1864 und 1867 von Maxwell gefundene Dualitätsrelation von Fachwerktheorie und Kraftpolygon als "Paradepferd der graphischen Statik."
+
+
+=== Späte Jahre ===
+
+Im Jahre 1871 wurde er zum ersten Cavendish Professor of Physics nach Cambridge berufen. Maxwell überwachte den Aufbau des Cavendish-Laboratoriums. Er beaufsichtigte jeden Schritt beim Bau des Gebäudes und beim Einkauf der wertvollen Gerätesammlung, mit der das Laboratorium dank des großzügigen Gründers, des 7. Dukes of Devonshire, ausgestattet wurde. Er schrieb ein Lehrbuch über die Theorie der Wärme (1871) und eine exzellente einführende Abhandlung über Körper und Bewegung (1876). 1874 wurde er in die American Academy of Arts and Sciences gewählt. Einer der letzten großen Beiträge Maxwells zur Wissenschaft war die Auswertung der Forschungen von Henry Cavendish. Dabei kam heraus, dass sich Cavendish unter anderem mit Fragen über die mittlere Dichte der Erde und die Zusammensetzung des Wassers beschäftigt hatte. Als Maxwell 1879 im Alter von 48 Jahren verstarb, wurde John William Strutt, 3. Baron Rayleigh sein Nachfolger als Cavendish Professor. Dieser führte systematische Kurse in Physik ein.
+The Life of James Clerk Maxwell wurde von seinem Klassenkameraden und lebenslangem Freund, Professor Lewis Campbell (1830–1908), 1882 veröffentlicht. Seine gesammelten Werke, einschließlich der Serie von Artikeln über die Eigenschaften von Materie wurden in zwei Bänden von der Cambridge University Press 1890 herausgegeben.
+
+
+== Ehrungen ==
+Zu Maxwells Ehren wurde die cgs-Einheit Maxwell des magnetischen Flusses benannt. Eine Gebirgskette auf der Venus, Maxwell Montes, wurde nach ihm benannt, da diese durch die von ihm postulierten elektromagnetischen Wellen (Radar-Beobachtungen) entdeckt wurde. Außerdem trägt das James Clerk Maxwell Telescope auf dem Mauna Kea, das größte Teleskop der Welt für elektromagnetische Strahlung zwischen Infrarot und Mikrowellen mit einem Durchmesser von 15 m seinen Namen. Auch ein Mondkrater und der Asteroid (12760) Maxwell sind nach James C. Maxwell benannt.
+Ihm zu Ehren sind der James-Clerk-Maxwell-Preis für Plasmaphysik und die Maxwell-Medaille benannt.
+
+
+== Veröffentlichungen (Auswahl) ==
+On the dynamical theory of gases, Philosophical Transactions of the Royal Society, Band 157, 1867, S. 49–88
+Illustrations of the Dynamical Theory of Gases. Philosophical Magazine, Band 19, 1860, S. 19–32, Band 20, 1860, S. 21–37.
+On Physical Lines of Force, 4 Teile, Teil 1 The theory of molecular vortices applied to magnetic phenomena, Philosophical Magazine, Band 21, 1861, S. 161–175, Teil 2 The theory of molecular vortices applied to electric currents, ibid., S. 281–281, 338–345, Teil 3 The theory of molecular vortices applied to statical electricity, Phil. Mag., Band 23, 1862, S. 12–24, Teil 4 The theory of molecular vortices applied to the action of magnetism on polarized light, Phil. Mag., Band 23, 1862, S. 85–95.
+Deutsche Ausgabe: Über physikalische Kraftlinien, Ostwalds Klassiker Nr. 109 (Herausgeber Ludwig Boltzmann), Leipzig: W. Engelmann 1898
+On Faraday´s Lines of Force, Transactions Cambridge Phil. Soc., Band 10, 1856 (auch in Scientific Papers, Band 1, 155–229)
+Deutsche Ausgabe: Über Faradays Kraftlinien, Leipzig: Wilhelm Engelmann 1895 (Herausgeber Ludwig Boltzmann)
+A Dynamical Theory of the Electromagnetic Field („Eine dynamische Theorie des elektromagnetischen Feldes“). In: Philosophical Transactions of the Royal Society. Band 155, 1865, S. 459–512, doi:10.1098/rstl.1865.0008.
+Theory of Heat. Longmans, Green and Company, London 1871 (10. Auflage 1891 bearbeitet von John William Strutt, 3. Baron Rayleigh).
+Deutsche Ausgabe: Theorie der Wärme, Vieweg 1878
+A Treatise on Electricity and Magnetism, 2 Bände, Oxford 1873, 2. Auflage 1881 (Hrsg. W. D. Niven, noch mit Maxwells Änderungen in den ersten acht Kapiteln), 3. Auflage 1891 (Hrsg. J. J. Thomson).
+Deutsche Ausgabe: Lehrbuch der Electrizität und des Magnetismus, 2 Bände, Springer Verlag, Berlin 1883 (Übersetzer Bernhard Weinstein (1852–1918))
+Auszüge aus James Clerk Maxwell´s Elektrizität und Magnetismus, Herausgeber Fritz Emde, Übersetzer Hilde Barkhausen, Vieweg 1915
+Elementary treatise on electricity, Oxford 1881, 2. Auflage 1888 (Herausgeber W. Garnett)
+Deutsche Ausgabe: Die Electrizität in elementarer Behandlung, Vieweg 1883
+Matter and Motion, London 1877, 2. Auflage herausgegeben von Joseph Larmor 1924, Reprint Dover 1991
+Ether. In Encyclopædia Britannica. 9, Auflage 1878
+Molecules. In: Nature. September 1873.
+The electrical researches of the Honourable Henry Cavendish; edited by J. Clerk Maxwell. Written between 1711 and 1781. Edited from the original Manuscripts in the Possession of the Duke of Devonshire. Publisher: The University Press, Cambridge, 1879
+The scientific papers of James Clerk Maxwell; Volume I. Edited by William Davidson Niven. Publisher: The University Press Cambridge, 1890
+The scientific papers of James Clerk Maxwell; Volume II. (1890)
+P. M. Harman (Hrsg.): The scientific letters and papers of James Clerk Maxwell. Cambridge University Press, 1990–2002.
+Band 1: 1846–1862. ISBN 0-521-25625-9.
+Band 2: 1862–1873. ISBN 0-521-25626-7.
+Band 3: 1874–1879. ISBN 0-521-25627-5.
+On the best Arrangement for producing a Pure Spectrum on a Screen – Proceedings of the Royal Society of Edinburgh, Vol. VI, Session 1867–68
+On hills and dales, Philosophical Magazine 1870 (Vorläufer der Morse-Theorie)
+On governors, Proc. Royal Society, Band 100, 1868
+Bücher von James Clark Maxwell im Internet Archive - online
+
+
+== Literatur ==
+Basil Mahon The man who changed everything – the life of James Clerk Maxwell, Wiley 2003
+Lewis Campbell, William Garnett The life of James Clerk Maxwell. With a selection of his correspondance and occasional writings and a sketch of his contribution to science, London, Macmillan 1882 (die Standardbiographie, geschrieben von einem Freund (Campbell)) im Internet Archive – online
+Ivan Tolstoy James Clerk Maxwell. A Biography, University of Chicago Press 1982
+C. W. F. Everitt, Artikel Maxwell in Dictionary of Scientific Biography
+C. W. F. Everitt James Clerk Maxwell. Physicist and Philosopher, New York 1975
+Daniel Siegel Innovation in Maxwell’s electromagnetic theory, Cambridge University Press 1991
+Quirin Engasser (Hrsg.): Große Männer der Weltgeschichte. 1000 Biographien in Wort und Bild. Neuer Kaiser Verlag, Klagenfurt 1987, ISBN 3-7043-3065-5, S. 298
+Tapan K. Sarkar, Magdalena Salazar-Palma, Dipak L. Sengupta: Who was James Clerk Maxwell and what was/is his electromagnetic theory. (PDF; 604 kB).
+D.K.C. MacDonald: Faraday, Maxwell & Kelvin. Publisher: Anchor Books, Doubleday & Co., New York 1964
+Bruce J. Hunt: The Maxwellians, Cornell University Press 1991
+
+
+== Weblinks ==
+
+Literatur von und über James Clerk Maxwell im Katalog der Deutschen Nationalbibliothek
+JAMES CLERK MAXWELL im Personenlexikon
+Biografie bei der Deutschen Gesellschaft für Post- und Telekommunikationsgeschichte
+James Clerk Maxwell Biografie der Uni Erlangen
+James Clerk Maxwell Biography – University of St. Andrews, Scotland
+JAMES CLERK MAXWELL FOUNDATION
+James Clerk Maxwell in Encyclopædia Britannica
+Die Maxwellgleichungen (fast) ohne Formeln. Sechs Beiträge von Martin Bäker, scicenblogs 2010; abgerufen am 28. September 2016
+
+
+== Einzelnachweise ==
+Maxwell, James Clerk - Dictionary of National Biography, Seite 118, Volume 13, London 1909

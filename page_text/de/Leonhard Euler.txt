@@ -1,0 +1,298 @@
+Leonhard Euler (lateinisch Leonhardus Eulerus; * 15. April 1707 in Basel; † 7. Septemberjul./ 18. September 1783greg. in Sankt Petersburg) war ein Schweizer Mathematiker und Physiker. Wegen seiner Beiträge zur Analysis, zur Zahlentheorie und zu vielen weiteren Teilgebieten der Mathematik gilt er als einer der bedeutendsten Mathematiker.
+
+
+== Leben ==
+Euler wurde als ältester Sohn des Pfarrers Paul Euler (1670–1745) und dessen Ehefrau Margaretha Brucker (1677–1761) in Basel geboren. Euler wuchs in Riehen auf, wohin sein Vater 1708 versetzt worden war. Er besuchte das Gymnasium am Münsterplatz in Basel und nahm gleichzeitig Privatunterricht beim Theologen Johannes Burckhardt (1691–1743), der von der Mathematik begeistert war. Ab 1720 studierte er an der Universität Basel und hörte hier Vorlesungen von Johann I Bernoulli. 1723 erlangte er durch einen Vergleich der newtonschen und cartesianischen Philosophie in lateinischer Sprache die Magisterwürde. Seinen Plan, auch Theologie zu studieren, gab er 1725 auf.
+Am 17. Mai 1727 berief ihn Daniel Bernoulli an die Petersburger Akademie der Wissenschaften. Er erbte die Professur des 1726 verstorbenen Nikolaus II Bernoulli. Hier traf er auf Christian Goldbach, mit dem er jahrzehntelang in Briefwechsel stand. 1730 erhielt Euler die Professur für Physik und trat schliesslich 1733 die Nachfolge von Daniel Bernoulli als Professor für Mathematik an. Er bekam in den folgenden Jahren immer stärkere Probleme mit seinem Augenlicht und war ab 1740 rechtsseitig blind.
+1741 wurde er von Friedrich II. an die Königlich-Preußische Akademie der Wissenschaften berufen. Euler korrespondierte weiterhin mit Christian Goldbach und verglich dessen Theorien mit seinen eigenen. An seine Tätigkeit und sein damaliges Wohnhaus in Berlin erinnert eine Gedenktafel an der Behrenstrasse 21/22, dem heutigen Haus der Bayerischen Vertretung in Berlin.
+Nach 25 Jahren in Berlin kehrte er 1766 zurück nach Sankt Petersburg, wo Katharina die Große seit 1762 als Kaiserin von Russland residierte. An der Akademie der Wissenschaften wurde Euler ein ehrenvoller Empfang bereitet. Er arbeitete wie in der ersten Sankt Petersburger Periode in der Kunstkammer und lebte in einem von Katharina der Großen geschenkten Palais mit seinem Sohn Johann Albrecht direkt an der Newa.
+Leonhard Euler war in erster Ehe verheiratet mit Katharina Gsell, Tochter des Malers Georg Gsell aus dessen erster Ehe mit Marie Gertrud van Loen. Das Paar hatte zahlreiche Kinder. Nach ihrem Tod heiratete er ihre Halbschwester Salomea Abigail, Tochter von Georg Gsell und dessen dritter Ehefrau Maria Dorothea Gsell, der Tochter von Maria Sibylla Merian.
+1771 erblindete er vollständig. Trotzdem entstand fast die Hälfte seines Lebenswerks in der zweiten Petersburger Zeit. Hilfe erhielt er dabei von seinen Söhnen Johann Albrecht, Karl und Christoph sowie von seinem Sekretär Nikolaus Fuss, der nach seinem Tod als erster eine Würdigung verfasste. Trotz seiner wissenschaftlichen Produktivität wurde er nie Präsident der Universität. Dieses Amt besetzte meist ein Günstling Katharinas, aber Eulers Stellung in der Universität kam der des Präsidenten sehr nahe. 1782 wurde er in die American Academy of Arts and Sciences gewählt.
+1783 starb Euler an einer Hirnblutung und wurde neben seiner Frau auf dem lutherischen Smolensker Friedhof auf der Wassiljewski-Insel in Sankt Petersburg begraben. In der Sowjetzeit wurden seine sterblichen Überreste auf den Lazarus-Friedhof des Alexander-Newski-Klosters umgebettet.
+Zum Verständnis des Menschen Euler gehört auch seine religiöse Überzeugung im Sinne des reformierten Glaubens, der für sein Verständnis der Wissenschaft wichtig war, was er in seinen Briefen an eine deutsche Prinzessinn artikulierte, sich in seiner Schrift Rettung der Göttlichen Offenbarung gegen die Einwürfe der Freygeister niederschlug, in seiner Grabrede betont wurde, und verständlich macht, dass er und der Aufklärer Voltaire, zeitgleich am preußischen Hof, keinen Konsens bezüglich Weltanschauung fanden. Für den angeblichen „non-sequitur“-Gottesbeweis Eulers auf Kosten Diderots gibt es keine zeitgenössischen Quellen.Da Euler und Friedrich II. sich im Streit trennten, befinden sich heute neben den Originaldokumenten aus der ersten und zweiten Petersburger Periode auch die Dokumente aus der Berliner Zeit im Archiv in Sankt Petersburg.
+
+
+== Leistungen ==
+
+Euler war extrem produktiv: Insgesamt gibt es 866 Publikationen von ihm.
+
+
+=== Mathematik ===
+Euler kann als einer der Begründer der Analysis angesehen werden. Ein grosser Teil der heutigen mathematischen Symbolik geht auf ihn zurück (zum Beispiel e, π, i, Summenzeichen ∑, f(x) als Bezeichnung eines Funktionstermes). 1736 fand er den Grenzwert für die unendliche Summe der reziproken Quadratzahlen. In einer Verallgemeinerung dieses sogenannten Basler Problems fand er eine geschlossene Darstellung für die «geraden» Bernoulli-Zahlen. 1744 gab er ein Lehrbuch der Variationsrechnung heraus. 1748 publizierte er das Grundlagenwerk Introductio in analysin infinitorum, in dem zum ersten Mal der Begriff „Funktion“ die zentrale Rolle spielte.
+In den Werken Institutiones calculi differentialis (1755) und Institutiones calculi integralis (1768–1770) beschäftigte er sich ausser mit der Differential- und Integralrechnung unter anderem mit Differenzengleichungen und elliptischen Integralen sowie mit der Theorie der Gamma- und Betafunktion.
+Andere Arbeiten setzen sich mit Zahlentheorie, Algebra (zum Beispiel Vollständige Anleitung zur Algebra, 1770) und sogar mit der Anwendung mathematischer Methoden in den Sozial- und Wirtschaftswissenschaften auseinander (zum Beispiel Rentenrechnung, Lotterien, Lebenserwartung).
+Seine 1736 veröffentlichte Arbeit Solutio problematis ad geometriam situs pertinentis beschäftigt sich mit dem Königsberger Brückenproblem und gilt als eine der ersten Arbeiten auf dem Gebiet der Graphentheorie.
+Nach Euler sind verschiedene Zahlen und Zahlenfolgen benannt, siehe dazu Eulersche Zahlen (Begriffsklärung).
+
+
+=== Physik ===
+In der Mechanik arbeitete Leonhard Euler auf den Gebieten der Hydrodynamik (Eulersche Gleichungen der Strömungsmechanik, Turbinengleichung) und der Kreiseltheorie (Eulersche Kreiselgleichungen). Die erste analytische Beschreibung der Knickung eines mit einer Druckkraft belasteten Stabes geht auf Euler zurück; er begründete damit die Stabilitätstheorie.
+In Schriften wie Mechanica, sive motus scientia analytica exposita (1736) und Theoria motus corporum solidorum seu rigidorum (1765) wandte Euler die Mathematik auf Fragen der Physik an. Am 3. September 1750 las er vor der Berliner Akademie der Wissenschaften ein Mémoire, in dem er das Prinzip „Kraft gleich Masse mal Beschleunigung“ als eigene und neue Entdeckung vorstellte.
+In der Optik veröffentlichte er Werke zur Wellentheorie des Lichts und zur Berechnung von optischen Linsen zur Vermeidung von Farbfehlern.
+1745 übersetzte Euler das Werk New principles of gunnery des Engländers Benjamin Robins ins Deutsche. Es erschien im selben Jahr in Berlin unter dem Titel Neue Grundsätze der Artillerie enthaltend die Bestimmung der Gewalt des Pulvers nebst einer Untersuchung über den Unterscheid(sic) des Wiederstands(sic) der Luft in schnellen und langsamen Bewegungen. Seit Galilei hatten die Artilleristen die Flugbahnen der Geschosse als Parabeln angesehen, wobei sie den Luftwiderstand für vernachlässigbar hielten. Robins hat als einer der ersten Experimente zur Ballistik ausgeführt und gezeigt, dass die Flugbahn durch den Luftwiderstand wesentlich beeinflusst wird. Somit wurde dank Robins und mit Eulers Hilfe „das erste Lehrbuch der Ballistik“ geschaffen. Es wurde zum Beispiel in Frankreich (in französischer Übersetzung) als offizielles Lehrbuch in den Militärschulen eingeführt. Napoleon Bonaparte musste es als Leutnant studieren.
+Weniger bekannt sind seine Arbeiten zum Stabilitätskriterium von Schiffen, in denen er das bereits erworbene, aber wieder verlorengegangene Wissen von Archimedes erneuert.
+
+
+=== Mathematische Musiktheorie ===
+
+Euler begründete eine auf mathematischen Gesetzen aufbauende Musiktheorie (unter anderem Tentamen novae theoriae musicae, 1739, Music mathématique, Paris 1865). Sein Modell des Tonnetzes wird noch heute bei Berechnungen zur reinen Stimmung verwendet.
+
+
+=== Populäre Darstellungen und Themen ===
+Besondere Bedeutung in der breiten Öffentlichkeit erlangte seine populärwissenschaftliche Schrift Lettres à une princesse d’Allemagne von 1768, in der er in Form von Briefen an die Prinzessin Friederike Charlotte von Brandenburg-Schwedt, eine Nichte Friedrichs II., die Grundzüge der Physik, der Astronomie, der Mathematik, der Philosophie und der Theologie vermittelt.
+Euler widmete sich auch Aufgaben der Schachmathematik, zum Beispiel dem Springerproblem.
+Er ist der Erfinder des lateinischen Quadrats, einer Vorform des Sudoku.
+
+
+== Schriften ==
+Der schwedische Mathematiker Gustaf Eneström hat ein chronologisches Verzeichnis der Publikationen Eulers erstellt. Eulers Schriften werden üblicherweise durch ihre Eneström-Nummer (E001–E866) referenziert.
+
+
+=== Im Text erwähnte Publikationen ===
+
+Mechanica sive motus scientia analytice exposita. 2 Bände, 1736 (E015, E016).
+Tentamen novae theoriae musicae. 1739 (E033).
+Einleitung zur Rechen-Kunst zum Gebrauch des Gymnasii bey der Kayserlichen Academie der Wissenschafften in St. Petersburg. 2 Bände, Academische Buchdruckerey, Sankt Petersburg; Band 1 1738, Band 2 1740. (Digitalisat und Volltext im Deutschen Textarchiv Band 1, Digitalisat und Volltext im Deutschen Textarchiv Band 2).
+Solutio problematis ad geometriam situs pertinentis. 1741 (E053).
+Methodus inveniendi lineas curvas maximi minimive proprietate gaudentes sive solutio problematis isoperimetrici latissimo sensu accepti. 1744 (E065).
+Introductio in analysin infinitorum. 2 Bände, 1748 (E101, E102).
+Découverte d’un nouveau principe de Mécanique. In: Mémoires de l'académie des sciences de Berlin. Band 6, 1752, S. 185–217 (E177).
+Institutiones calculi differentialis. 2 Bände, 1755 (E212).
+Theoria motus corporum solidorum seu rigidorum. 1765 (E289).
+Lettres à une princesse d’Allemagne. 3 Bände, 1768 (E343, E344, E417).
+Institutiones calculi integralis. 3 Bände, 1768–1770 (E342, E366, E385).
+Vollständige Anleitung zur Algebra. 2 Bände, 1770 (E387, E388, Band 2 Digitalisat und Volltext im Deutschen Textarchiv).
+
+
+=== Opera Omnia ===
+Euler veröffentlichte rund zwei Dutzend Bücher und 500 wissenschaftliche Aufsätze. Der deutsche Mathematiker Ferdinand Rudio (1856–1929) initiierte die Herausgabe von Eulers sämtlichen Werken. Zu Lebzeiten Rudios wurden mehr als 30 Bände publiziert. Bis 2013 sind über 70 Einzelbände erschienen, ausserdem vier Bände aus dem umfangreichen Briefwechsel. Die Arbeiten erscheinen in der Originalsprache, meist Französisch oder Latein.
+Die gesammelten Werke werden seit 1911 als Opera Omnia im Birkhäuser (Springer) Verlag herausgegeben durch die Euler-Kommission, die von Ferdinand Rudio gegründet wurde. Damals waren auch Adolf Krazer, Rudolf Fueter, Heinrich Weber, Paul Stäckel und Karl von der Mühll an der Herausgabe beteiligt. Zu den späteren Herausgebern von Einzelbänden gehörten Ludwig Schlesinger, Friedrich Engel, Andreas Speiser, Clifford Truesdell (Physik, Mechanik, der ganze Band 11-1 ist eine Geschichte der Elastizitätstheorie im 17. und 18. Jahrhundert, verfasst von Truesdell), Alexander Michailowitsch Ljapunow, Georg Faber, August Gutzmer, Carl Boehm, Constantin Carathéodory, Henri Dulac, Max Herzberger, Emile Cherbuliez, Charles Blanc und Eric Aiton (Physik). Hauptherausgeber nach Rudio waren Andreas Speiser (ab 1928), Walter Habicht (ab 1965) und seit 1985 Hans-Christoph Im Hof.
+Die Edition besteht aus
+
+Reihe 1: Mathematik, 30 Bände (vollständig). Erster Band war 1911 die Anleitung zur Algebra. Band 16 besteht aus zwei Teilbänden.
+Reihe 2: Mechanik und Astronomie, 27 Bände in 30 Teilbänden (vollständig).
+Reihe 3: Physik und Sonstiges, 12 Bände (vollständig).
+Reihe 4a: Briefwechsel. Geplant: 10 Bände für die rund 3100 Briefe mit rund 300 Korrespondenten. Bisher erschienen: 4 Bände.
+Reihe 4b: Notizbücher, Tagebücher und Unveröffentlichtes (geplant).Weitere Herausgeber waren unter anderem Emil Fellmann, Adolf Juschkewitsch, Henri Dulac, Pierre Costabel, René Taton, Wladimir Iwanowitsch Smirnow, Alot T. Grigorjan, Joachim Otto Fleckenstein, Johann Jakob Burckhardt, Gleb K. Mikhailov, Franz Lemmermeyer, Andreas Kleinert und Martin Mattmüller.
+
+
+=== Briefe ===
+Beim Briefwechsel sind im Rahmen der Opera Omnia erschienen:
+
+Band 1 (Zusammenfassung Inhalte, Übersicht, 1975),
+Band 2 (mit Johann I. und Nikolaus I. Bernoulli),
+Band 5 (mit Clairaut, d’Alembert und Lagrange) und
+Band 6 (mit Maupertuis und Friedrich II.).Ausserdem sind ausserhalb der Opera Omnia folgende Briefwechsel erschienen:
+
+mit Goldbach (Akademie Verlag, Berlin 1965),
+mit den Berliner und Petersburger Akademien (Akademie Verlag, Berlin, 3 Bände: 1959, 1961, 1976),
+mit Tobias Mayer (American Elsevier, 1971).Paul-Heinrich Fuss veröffentlichte 1845 Teile des Briefwechsels von Euler mit Goldbach, Nikolaus Fuss, Johann I, Nikolaus und Daniel Bernoulli.
+
+Briefe an eine deutsche Prinzessin
+
+
+== Ehrungen ==
+
+Die Evangelisch-Lutherische Kirche in Amerika erinnert mit einem Gedenktag am 24. Mai an Leonhard Euler, gemeinsam mit Nikolaus Kopernikus.Von etwa 1976 bis 1995 war Leonhard Euler auf der 10-Schweizer-Franken-Note abgebildet.
+Zum 300. Geburtstag hat die Schweizerische Post 2007 eine Sondermarke herausgegeben.
+In Basel wurde 1875 zu Ehren von Leonhard Euler beim Eingang des Bernoullianums eine Büste aufgestellt. Nach ihm ist dort auch eine Strasse benannt.
+
+
+== Nachkommen ==
+Leonhard Euler hatte aus der ersten Ehe mit Katharina Gsell 13 Kinder, von denen allerdings nur fünf das Erwachsenenalter erreichten. Nach der Oktoberrevolution von 1917 kehrte ein Teil seiner Nachkommen von Russland in die Schweiz zurück, darunter die Eltern des späteren Nationalrats Alexander Euler (1929–2012).
+
+
+== Leonhard Euler als Namensgeber ==
+Siehe auch Kategorie:Leonhard Euler als Namensgeber.
+Von Leonhard Euler entwickelte Methoden oder Ideen, die seinen Namen tragen, sind:
+Gleichungen:
+
+Euler-Bernoulli-Gleichung, Differentialgleichung vierter Ordnung, die der Kontinuumsmechanik des Balkens zugrunde liegt, siehe Biegelinie (Bestandteil der Euler-Bernoulli-Balkentheorie)
+Eulersche Differentialgleichung, lineare gewöhnliche Differentialgleichung beliebiger Ordnung
+Eulersche Gleichungen der Strömungsmechanik, Grundgleichungen zur Dynamik idealer (reibungsfreier) Flüssigkeiten
+Eulersche Kreiselgleichungen
+Euler-Lagrange-GleichungFormeln:
+
+Euler-Eytelwein-Formel, Formel für Seilhaftung
+Eulersche Formel
+Eulersche Formel oder Satz von Euler in der Flächenkrümmung, siehe Hauptkrümmung
+Euler-Maclaurin-Formel
+Euler-Rodrigues-FormelTheoreme:
+
+Euler-Theorem, Theorem in den WirtschaftswissenschaftenZahlen:
+
+Satz von Euler-Fermat (Zahlentheorie)
+Euler-Mascheroni-Konstante 
+  
+    
+      
+        γ
+        =
+        0,577
+        2
+        …
+      
+    
+    {\displaystyle \gamma =0{,}5772\dots }
+  , auch Eulersche Konstante genannt
+Eulersche Zahl 
+  
+    
+      
+        e
+        =
+        exp
+        ⁡
+        (
+        1
+        )
+        =
+        2,718
+        28
+        …
+      
+    
+    {\displaystyle e=\exp(1)=2{,}71828\dots }
+  
+Eulersche Zahlen, verwandt mit den Bernoulli-Zahlen, treten als Taylor-Koeffizienten der Sekans-hyperbolicus-Funktion auf
+Euler-Zahlen bilden das dem Pascalschen Dreieck ähnliche Euler-Dreieck in der Kombinatorik
+Euler-Zahl ist eine dimensionslose Kennzahl in der Strömungsmechanik
+Euler-Ziegel, ein Quader mit ganzzahligen Längen der Kanten und Flächendiagonalen
+Eulersche Pseudoprimzahl
+Eulersche Reihe
+Eulersche Vermutung, Vermutung der Zahlentheorie und Verallgemeinerung der fermatschen Vermutung
+Euler-Produkt, siehe Dirichletreihe
+Eulersches Kriterium zur Berechnung des Legendre-SymbolsFunktionen und Lösungsverfahren:
+
+Eulersches Integral erster und zweiter Gattung (Eulersche Betafunktion und Gammafunktion)
+Euler-Maruyama-Verfahren zur Lösung von stochastischen Differentialgleichungen
+Eulersches Polygonzugverfahren (Integrationsverfahren für Differenzialgleichungen)
+Eulersche Phi-Funktion 
+  
+    
+      
+        φ
+        (
+        m
+        )
+      
+    
+    {\displaystyle \varphi (m)}
+   = Anzahl der zu 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+   teilerfremden ganzen Zahlen 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   mit 
+  
+    
+      
+        0
+        <
+        a
+        ≤
+        m
+      
+    
+    {\displaystyle 0<a\leq m}
+  
+Eulersche Reihentransformation
+Manchmal als Euler-Funktion bezeichnet wird das Euler-Produkt in der Theorie der Partitionsfunktion (siehe auch Pochhammer-Symbol).Geometrie:
+
+Eulersche Gerade: die Verbindungsgerade von Schwerpunkt, Höhenschnittpunkt und Umkreismittelpunkt eines Dreiecks
+Satz von Euler (Geometrie)
+Satz von Euler (Vierecksgeometrie)
+Eulersches Dreieck, eine besondere Form des Kugeldreiecks
+Eulersche Linie (auch „Eulertour“ oder „Eulerkreis“) in der Graphentheorie: ein Kantenzug, der jede Kante eines Graphen enthält
+Eulerscher Polyedersatz
+Eulersche Winkel
+Euler-Charakteristik, in der Topologie eine Kennzahl für geschlossene Flächen
+Euler-Hierholzer-Satz
+Eulersche Knickfälle
+Eulersche Last in der Balkentheorie die minimale axiale Last, die nötig ist, um eine Verbiegung zu bewirken
+Eulersches Tonnetz, Darstellung des Tonumfanges der reinen Stimmung in einem zweidimensionalen Gitternetz aus reinen Quint- und Terzintervallen
+Eulersche Turbinengleichung als Grundlage für die Kraftmaschine der modernen Stromerzeugung
+Euler-Wiege, eine kardanische Aufhängung, die in allen drei Eulerschen Winkeln drehbar ist
+Euler-KlasseSonstiges:
+
+Euler-Bernoulli-Balkentheorie, siehe Bernoullische Annahmen
+Euler-Kreisel
+Euler-Wind
+Euler-Medaille, eine Auszeichnung für Mathematiker im Bereich der Kombinatorik
+Leonhard-Euler-Teleskop, Spiegelteleskop mit 1,2-m-Apertur der Sternwarte Genf am La-Silla-Observatorium der Europäischen Südsternwarte
+Euler Book Prize, Preis der Mathematical Association of America
+Euler-Scheibe (englisch Euler’s Disc), ein physikalisches Spielzeug für die Demonstration der Energiedissipation einer rotierenden Scheibe. Die Scheibe wurde etwa 1987 von Joe Bendik erfunden, die dieser nach Leonhard Euler benannte, weil Euler sich bereits mit mathematischen Aspekten dieses physikalischen Problems beschäftigt hatte.Weiterhin sind zu seinen Ehren ein Mondkrater (der Krater Euler) und der Asteroid (2002) Euler benannt. Auch eine Software für numerische und symbolische Berechnungen (Euler Math Toolbox) trägt seinen Namen.
+
+
+== Literatur ==
+
+
+=== Monografien ===
+Gerd Biegel u. a. (Hrsg.): Leonhard Euler. 1707–1783. Mathematiker – Mechaniker – Physiker. Braunschweig 2008 (Disquisitiones historiae scientiarum, Band 3).
+Nikolai Nikolajewitsch Bogoljubow, Gleb K. Michailow, Adolf Juschkewitsch: Euler and modern science. Mathematical Association of America, 2008.
+Robert E. Bradley, C. Edward Sandifer (Hrsg.): Leonhard Euler: Life, Work and Legacy. Elsevier 2007.
+Horst Bredekamp, Wladimir Velminski (Hrsg.): Mathesis & Graphe. Leonhard Euler und die Entfaltung der Wissensysteme. Akademie-Verlag, Berlin 2010, ISBN 978-3-05-004566-5.
+Ronald S. Calinger: Mathematical Genius. Mathematical Genius in the Enlightment, Princeton University Press 2015
+Lokenath Debnath: The legacy of Leonhard Euler. A tricentennial tribute. Imperial College Press, London 2010.
+William Dunham: Euler: The Master of Us All. Mathematical Association of America, 1999, ISBN 0-88385-328-0.
+Gustaf Eneström: Verzeichnis der Schriften Leonhard Eulers. Ergänzungsband 4 zum Jahresbericht der DMV. B. G. Teubner, Leipzig 1910 (erste Lieferung), 1913 (zweite Lieferung).
+Leonhard Euler 1707–1783. Beiträge zu Leben und Werk. Gedenkband des Kantons Basel-Stadt. Birkhäuser, Basel 1983, ISBN 3-7643-1343-9.
+Emil A. Fellmann: Leonhard Euler. Rowohlt, Reinbek 1995, ISBN 3-499-50387-5.
+Günther Frei: Zahlentheorie, Analysis und vieles mehr – Die Bedeutung von Leonhard Euler für die heutige Zeit. In: Naturwissenschaftliche Rundschau. Band 60 (12). 2007, ISSN 0028-1050. S. 629–635.
+Xavier Hascher, Athanase Papadopoulos (Hrsg.): Leonhard Euler: Mathématicien, physicien et théoricien de la musique. CNRS Editions, Paris 2015, ISBN 978-2-271-08331-9.
+C. Edward Sandifer: How Euler did it. Mathematical Association of America 2007 (monatliche Kolumne von Sandifer in MAA Online 2003 bis 2007).
+Otto Spiess: Leonhard Euler. Ein Beitrag zur Geistesgeschichte des 18. Jahrhunderts. Frauenfeld 1929.
+Wilhelm Stieda: Die Übersiedlung Leonhard Eulers von Berlin nach St. Petersburg. Hirzel, Leipzig 1931. Digitalisierte Ausgabe der Universitäts- und Landesbibliothek Düsseldorf.
+Dieter Suisky: Euler as physicist. Springer, Berlin 2009.
+Margaret B. W. Tent: Leonhard Euler and the Bernoullis: Mathematicians from Basel. 2009, ISBN 978-1-56881-464-3.
+Rüdiger Thiele: Leonhard Euler. B. G. Teubner, Leipzig 1982, ISBN 3-322-00576-3.
+V. S. Varadarajan: Euler through time: A new look at old themes. American Mathematical Society, 2006.
+Wladimir Velminski (Hrsg.): Leonhard Euler. Die Geburt der Graphentheorie. Kulturverlag Kadmos, Berlin 2009, ISBN 3-86599-056-8.
+Rudolf Wolf: Leonhard Euler von Basel. In: Biographien zur Kulturgeschichte der Schweiz. Vierter Cyclus. Orell, Füssli & Comp., Zürich 1862, S. 87–134.
+
+
+=== Übersichtswerke ===
+Rüdiger Thiele: The Mathematics and Science of Leonhard Euler (1707–1783). Kapitel 5 in Glen van Brummelen, Michael Kinyon (Hrsg.): Mathematics and the Historian’s Craft. Springer, New York 2005, ISBN 978-0-387-25284-1, S. 81–140 (englisch).
+André Weil: Zahlentheorie – ein Gang durch die Geschichte von Hammurabi zu Legendre. Birkhäuser 1992.
+Hannelore Bernhardt: Leonhard Euler – Leben und Werk. Eine Einführung. Sitzungsberichte der Leibniz-Sozietät der Wissenschaften zu Berlin, Band 94, S. 15 – 31. trafo Wissenschaftsverlag Dr. Wolfgang Weist, Berlin 2008.
+
+
+=== Nachschlagewerke ===
+Moritz Cantor: Euler: Leonhard. In: Allgemeine Deutsche Biographie (ADB). Band 6, Duncker & Humblot, Leipzig 1877, S. 422–431.
+Andreas Speiser: Euler. Leonhard. In: Neue Deutsche Biographie (NDB). Band 4, Duncker & Humblot, Berlin 1959, ISBN 3-428-00185-0, S. 688 f. (Digitalisat).
+Emil A. Fellmann: Euler, Leonhard. In: Historisches Lexikon der Schweiz.
+
+
+== Weblinks ==
+
+Literatur von und über Leonhard Euler im Katalog der Deutschen Nationalbibliothek
+Werke von und über Leonhard Euler in der Deutschen Digitalen BibliothekÜber EulerThe Euler Commission – Euler-Kommission der Schweizer Akademie der Wissenschaften
+Euler 2007
+Rubrik bei MAA von Ed Sandifer „How Euler did it“
+John J. O’Connor, Edmund F. Robertson: Leonhard Euler. In: MacTutor History of Mathematics archive.
+Genealogie Leonhard Eulers
+WDR-Reportage zum 225. Todestag Eulers
+300 Jahre Leonhard Euler (Berlin-Brandenburgische Akademie der Wissenschaften)
+Mathematischer Kalender in Spektrum der Wissenschaft (PDF; 849 kB)
+verschiedene Aufsätze zu Euler in den BAMS 2007
+Music translated into Mathematics: Leonhard Euler
+Günther Frei: Zum 300. Geburtstag von Leonhard Euler. Hombrechtikum 15. März 2007 (PDF; 656 KB)
+Euler, Leonhard, in Heidelberger Texte zur Mathematikgeschichte
+Video über Leonhard Eulers Leben.Von EulerGesammelte Schriften im Euler-Archiv (englische Benutzerführung)
+Einleitung in die Analysis des Unendlichen (Deutsche Übersetzung)
+Digitalisierte Schriften zu Eulers Wirken in Berlin (BBAW)
+Briefwechsel mit Friedrich II. – Digitale Ausgabe der Universitätsbibliothek Trier
+
+
+== Einzelnachweise ==

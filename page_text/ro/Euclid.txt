@@ -1,0 +1,57 @@
+Euclid (în greaca veche Εὐκλείδης, Eukleídēs, latinizat: Euclides; n. 323 î.e.n. – d. 285 î.e.n., Alexandria, Egipt), numit și Euclid din Alexandria, a fost un matematician grec care a trăit și a predat în Alexandria în Egipt, în  timpul domniei lui Ptolemeu I (323 – 283 î.Hr.).
+
+
+== Biografie ==
+Despre viața lui Euclid s-au păstrat foarte puține date, de aceea se spune că viața lui se confundă cu opera. Dar nici aceasta nu s-a păstrat în întregime. Puținele referințe istorice despre Euclid au fost scrise la secole după el de Pappus din Alexandria 320 e.n. și Proclus 450 e.n.
+Într-o anecdotă scrisă la 800 de ani de la moartea sa se povestește că Ptolemeu I l-ar fi rugat pe Euclid să-i arate o cale mai ușoară ca să înțeleagă geometria, iar Euclid ar fi răspuns: „În geometrie nu există drumuri speciale pentru regi”.
+În afara de cartea Stihia, în traducere românească Elementele, tradusă în peste 300 de limbi, în care Euclid pune bazele aritmeticii și ale geometriei plane și spațiale, s-au mai păstrat câteva cărți dintre care: Datele, lucrare ce cuprinde teoreme și probleme care completează Elementele, precum și Optica, privită ca o geometrie a „razei vizuale”.
+
+
+== Opera ==
+Euclid a expus sistematic rezultatele geometrice cunoscute în vremea sa, datorate predecesorilor săi în dezvoltarea geometriei în tratatul Elementele. A expus și cercetări în domeniul opticii în tratatele Optica și Catoptrica. În cel dintâi a prezentat noțiunea de rază de lumină și a formulat, pentru prima dată, legea propagării rectilinii a luminii: „Razele... se propagă în linie dreaptă și se duc la infinit”. În continuare Euclid a analizat probleme geometrice de aplicare a acestei legi: formarea umbrei, obținerea imaginilor cu ajutorul orificiilor mici, problema dimensiunilor aparente ale corpurilor și determinarea distanțelor până la ele. În Catoptrica Euclid a menționat că: „tot ce este vizibil se vede în direcție rectilinie”. În tratatul menționat a fost cercetată propagarea luminii de către corpuri.
+Deși multe din rezultatele din Elemente au fost descoperite de matematicienii de dinainte, una dintre realizările lui Euclid a fost să le prezinte într-un singur cadru, logic și coerent, pentru a putea fi ușor folosite. A fost inclus și un sistem riguros de demonstrații matematice ce constituie baza matematicii încă și astăzi, 23 de secole mai târziu.
+Chiar dacă a fost cunoscută în special pentru informațiile din geometrie, cartea Elementele include de asemenea și teoria numerelor. Este vorba despre legătura dintre numerele perfecte și numerele prime de tip Mersenne, despre infinitatea de numere prime.
+Sistemul geometric descris în Elemente a fost cunoscut pentru mult timp ca simplă geometrie, considerată singura geometrie posibilă. Totuși astăzi sistemul este deseori denumit geometrie euclidiană, pentru a o diferenția de așa numita geometrie neeuclidiană, descoperită în secolul al XIX-lea.   
+La Biblioteca din Alexandria, care poate fi considerată cea mai veche universitate din lume, Euclid a înființat o celebră școală de geometrie.
+
+
+=== Elementele ===
+Tratatul „Elementele” al lui Euclid a fost timp de mai mult de 2.000 de ani principala carte după care s-a învățat geometria. Ea sintetizează și lucrările altor matematicieni de dinaintea lui sau contemporani cu el: Hipocrate, Eudoxus, Tectet și alții. Ea cuprinde 13 capitole (intitulate cărți). 
+Ca orice tratat expune matematica-rezultat. Este însă mai puțin adecvat pedagogic pentru formarea și exersarea gândirii sau raționamentului matematic deoarece nu oferă indicii privind descoperirea demonstrațiilor.Dacă pentru mărimile geometrice se folosește pentru simplificarea expunerii notația algebrică, primele 5 axiome din prima carte se pot scrie într-o formă concisă astfel:
+
+1.Dacă A=C și B=C, atunci A=B
+2.Dacă A=B, atunci A+C=B+C
+3.Dacă A=B, atunci AC=BC
+4.Dacă A=B, atunci 2A=2B
+5.Dacă A=B, atunci B=AIată câteva axiome:
+
+Și cele congruente sunt egale între ele.
+Și întregul este mai mare decât părțile.
+Și două drepte nu închid un spațiu între ele.Câteva postulate:
+
+De la un punct până la orice punct se poate duce o linie dreaptă
+Din orice centru și orice rază poate fi descris un cerc
+Toate unghiurile drepte sunt egale.
+Punctul este ceva care nu are părți.
+Capetele liniei sunt puncte.Elementele lui Euclid a fost una din cele mai răspândite cărți, reeditată de nenumărate ori de-a lungul a mai mult de două milenii, tradusă în numeroase limbi. S-au mai păstrat și alte lucrări ale sale: Datele și Despre împărțirea figurilor. După Euclid, cercetările în domeniul geometriei au fost continuate de matematicienii greci Arhimede și Apoloniu din Perga.
+
+
+=== Alte opere ===
+Există și alte opere atribuite credibil lui Euclid dar s-au pierdut.
+
+
+== Note ==
+
+
+== Bibliografie ==
+E. Rusu, De la Thales la Einstein - Gîndirea matematică în perspectivă istorică, Editura Albatros, București, 1967, pp. 66-70
+
+
+== Lectură suplimentară ==
+Braunstein, Florence, Pepin, Jean-Francois, Rădăcinile culturii occidentale, Editura Lider Superexim
+
+
+== Legături externe ==
+
+O'Connor, John J.; Robertson, Edmund F., „Euclid of Alexandria”, MacTutor History of Mathematics archive, University of St Andrews .
+el en  Elementele lui Euclid

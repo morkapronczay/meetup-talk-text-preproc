@@ -1,0 +1,107 @@
+Johannes Kepler (magyarul ismert Kepler János néven is, Weil der Stadt, 1571. december 27. – Regensburg, Bajorország, 1630. november 15.) német matematikus és csillagász, aki felfedezte a bolygómozgás törvényeit, amiket róla Kepler-törvényeknek neveznek. Széles körűen foglalkozott más megfigyelésekkel is, köztük optikával.
+
+
+== Ifjúkora ==
+Johannes Kepler 1571. december 27-én született Weil der Stadtban a német szabad birodalmi városban (kb. szabad királyi város). Anyja keltette fel az érdeklődését a csillagászat iránt: megmutatta neki az 1577-es üstököst és az 1580-as holdfogyatkozást. Alapfokú tanulmányai után, 12 évesen beiratkozott az adelbergi iskolába. Ott olyan kitűnő eredményeket ért el, hogy átmehetett Maulbronnba, egy magasabb szintű iskolába. Ezután, 1591-ben teológiát kezdett el tanulni Tübingenben. Itt az egyetemen hallott először Kopernikusz heliocentrikus világképéről. 
+Kepler eredetileg protestáns lelkész szeretett volna lenni, de matematikai tehetsége olyan ismert volt, hogy 23 éves korában 1594 áprilisában meghívták a Grazi Egyetemre matematikát és csillagászatot tanítani.
+Érdekes magyar vonatkozás, hogy 1598-tól ott tanított Pázmány Péter is.
+
+
+== Munkássága ==
+Az 1596-ban kiadott könyvében, a Mysterium Cosmographicumban (Das Weltgeheimnis) Kepler az akkor ismert hat bolygó pályáját az öt platóni testtel hozta kapcsolatba. Úgy gondolta, hogy az egyes bolygópályák gömbjei között a kocka, a tetraéder, az oktaéder, a dodekaéder és az ikozaéder tartja a távolságot. Ebben a művében jelenik meg az a gondolat, hogy a bolygókat egy a Napból kiáradó erő tartja pályájukon. Ezt azzal indokolta, hogy ez az erő a Naptól távolabb gyengébb, ezért mennek lassabban a távoli bolygók. Ez az első eset, hogy valaki a bolygók mozgását valamilyen fizikai hatással próbálta magyarázni.
+1597 áprilisában feleségül vette Barbara Mühlecket (máshol Barbara Müller von Mühlegg, apja vízimalom molnárja volt, aki később lovag lett, innen a Von Mühlegg [1]). Kepler 1600-ban lett Tycho Brahénak, II. Rudolf császár udvari csillagászának segédje. Közös munkájuk Prágában bonyolultan alakult. Mindketten tudták, hogy különböző adottságaik kiegészítik egymást. Brahe kitűnő megfigyelő volt, észleléseiben a légkör fénytörését is korrigálta, matematikai képességei viszont elég korlátozottak voltak. A kitűnő matematikus Kepler pedig rövidlátása miatt alig tudott pontos megfigyeléseket végezni. Brahe az ifjú matematikatehetséggel együtt szerette volna világképét kidolgozni, melyben a Nap a Föld körül, de bolygók a Nap körül keringenek.
+1601-ben Brahe halála után Kepler lett az udvari matematikus és csillagász. Ebben az időszakban jó barátságba került a magyar származású Jeszenszky Jánossal, aki a császár orvosa volt.
+1604-ben megfigyelte a fényes szupernóvát, és benyomásait a De Stella nova in pede Serpentarii ("A Kígyótartó lábában megjelent új csillagról") című könyvében jelentette meg.
+Kepler felhasználta Brahe megfigyelési adatait – annak rokonaitól lényegében ellopta –, és kimutatta, hogy a Mars pályája nem kör, hanem ellipszis, aminek egyik gyújtópontjában van a Nap (Kepler első törvénye). Megfigyelte azt is, hogy a bolygók a pályájukon a Naphoz közelebb haladva gyorsabban mozognak, mint távol. A megfigyelésekből levezette, hogy a bolygók vezérsugara azonos idők alatt azonos területet súrol (második törvény). A két törvényt az 1609-ben megjelenő Astronomia Nova („Új csillagászat”) című művében közölte. Munkája során felhasználta a pergai Apollóniosz kúpszeletekről írt geometriai művét.
+Kepler egyik legjelentősebb műve az 1611-ben megjelent Dioptrice („Optika”) volt, melyben az optikát tudományos szinten tárgyalta. Ebben írta le az általa feltalált Kepler-távcsővet, de írt a fénytörésről és a lencsékkel történő leképezésről is.  Ez utóbbival megmagyarázta a szemüveglencsék működését. Leírta a szem működését, és tárgyalta a látáshibákat.Felesége 1611-ben meghalt, két gyermeket hagyva maga után. Miután 1612 januárjában II. Rudolf is elhunyt, Kepler Linzben talált matematikusi állást.
+A megfigyelési adatok – elsősorban a Mars pályaadatainak – kitartó tanulmányozásával 1618. május 15-én összefüggést talált a bolygók keringési ideje és a Naptól való távolságuk között, amelyet ma Kepler harmadik törvényének nevezünk: a bolygók Naptól való átlagos távolságainak (a, a pálya fél nagytengelye) köbei úgy aránylanak egymáshoz, mint a keringési idejük (T) négyzetei, azaz az 
+  
+    
+      
+        
+          a
+          
+            3
+          
+        
+      
+    
+    {\displaystyle a^{3}}
+  /
+  
+    
+      
+        
+          T
+          
+            2
+          
+        
+      
+    
+    {\displaystyle T^{2}}
+   hányados minden naprendszerbéli bolygó esetén ugyanakkora. Ezt a törvényt az 1619-ben írt Harmonices Mundi ("A világ harmóniája") című művében közölte.
+Például a Jupiter keringési idejének (11,8 földi év) négyzete majdnem 140. A Jupiter majdnem 5,2-szer van távolabb a Naptól, mint a Föld; ennek köbe (5,2³) szintén majdnem 140.
+1620 augusztusában Katherinét, Kepler anyját Leonbergben boszorkányság vádjával bíróság elé állították és 14 hónapra bebörtönözték. Abban, hogy 1621 októberében elengedték, nagy szerepe volt Kepler közbenjárásának és hírnevének. Anyja a következő évben meghalt, halálának oka nem ismert.Élete vége felé, 1627-ben adta ki Kepler Tabulae Rudolfinae-t („Rudolf-féle táblázatok”-at), élete utolsó nagy művét. Kiértékelte Tycho Brahe megfigyeléseit, és az addigi legpontosabb bolygópálya-leírásokat adta meg. Ez a bolygótáblázat szolgált később alapul Kepler törvényei mellett Isaac Newton számára, hogy megalkossa a gravitációs és mozgástörvényeit. De már 1631-ben Gassendi ezen táblázatok alapján figyelte meg a Merkúr átvonulását.
+Mivel éveken keresztül nem kapott fizetést, 1628-ban felkereste Albrecht von Wallensteint, aki asztrológusként alkalmazta.
+1630. november 15-én, 58 éves korában halt meg, Regensburgban. A harmincéves háború során a temető, és így sírja is megsemmisült, de 1806-1808 körül az eredeti sírtól nem messze Emanuel Herigoyen emelt neki emlékművet.
+
+
+== További eredményei ==
+Prágában munkatársa volt Jobst Bürgi, a logaritmustáblázat szerzője, ők vezették be a tizedes törteknél a vesszőt az egész és a tört részek különválasztására.
+Foglalkozott térfogatszámítással. Arkhimédész nyomán – a boroshordók űrtartalmának megállapítása céljából – a forgástestek térfogatának kiszámítására a határozott integrálhoz nagyon hasonló általános számítási eljárást dolgozott ki, s ezzel az integrálszámítás előfutárának is tekinthető.
+A hópelyhek szimmetriáját vizsgálva észrevette, hogy bár egyedi alakúak, az ágak 60 fokos szöge mindegyikre jellemző. Ez vezette el ahhoz a problémához, miképp lehet gömböket és köröket legsűrűbben elhelyezni. Ezeknek a vizsgálatoknak ma a kristálytanban és a kódoláselméletben (a híradástechnika része) van szerepe. Kepler megsejtette, hogy akkor tudjuk a gömböket legsűrűbben elhelyezni, ha piramisszerűen helyezzük őket egymásra. Ezt csak 400 év múlva, 1998-ban bizonyította be Thomas Hales matematikus.
+
+
+== Kepler emléke a művészetben, tudományos és műszaki alkotásokban ==
+Kepler hatásának legismertebb magyar vonatkozása Madách Imre Az ember tragédiája című drámájának két prágai színe, melyek közrefogják a párizsi színt. Német, cseh és angol nyelvű filmek is készültek róla.
+Kráter őrzi emlékét a Holdon és a Marson.
+Az 1134 Kepler kisbolygót róla nevezték el.
+A NASA 2009-ben bocsátotta föl a Kepler űrtávcsövet, aminek segítségével exobolygókat kutatnak.
+Hindemith A világok harmóniája című operájának Kepler a főszereplője.
+Carl Sagan Cosmos című 13 részes tévéfilmsorozatában a 3. epizód főszereplője Kepler (ennek az egyórás filmnek is A világok harmóniája a címe).
+
+
+== Kepler írott művei ==
+Mysterium cosmographicum (A kozmosz szent titka) (1596)
+Astronomiae Pars Optica (A csillagászat optikai része) (1604)
+De Stella nova in pede Serpentarii (Új csillag a Kígyótartó lábánál) (1604)
+Astronomia nova (Új csillagászat) (1609)
+Tertius Interveniens (1610)
+Dissertatio cum Nuncio Sidereo (Beszélgetések a csillaghírnökkel) (1610)
+Dioptrice (Dioptria) (1611)
+De nive sexangula (A hatszögletű hópehelyről) (1611)
+De vero Anno, quo aeternus Dei Filius humanam naturam in Utero benedictae Virginis Mariae assumpsit (A valódi évről, amelyben az örök Isten Fia az áldott Szűz Mária méhében emberként megfogant) (1613)
+Eclogae Chronicae (Krónika fejezetek) (1615)
+Nova stereometria doliorum vinariorum (A boroshordók új térfogatméréséről) (1615)
+Epitome astronomiae Copernicanae (Kivonat a kopernikuszi csillagászatról) (három részben 1618–1621 között)
+Harmonice Mundi (Világok harmóniája) (1619)
+Mysterium cosmographicum (A kozmosz szent titkai) Második kiadása (1621)
+Tabulae Rudolphinae (Rudolf-táblázatok) (1627)
+Somnium, sive Opus posthumum de astronomia sublunari (Az álom - Posthumus mű a holdbéli csillagászatról) (1634)
+
+
+== Jegyzetek ==
+
+
+== További információk ==
+
+
+=== Weboldalak ===
+Zdenek Horsky: Kepler Prágában, Fizikai Szemle 1990
+Kepler törvényei (mozgó képpel)
+
+
+=== Könyvek ===
+Száva I.: Az ég törvénye, Móra Könyvkiadó, Budapest, 1973
+John Banville: Kepler, regény,  Európa Könyvkiadó, Budapest, 1981
+Arthur Koestler: Alvajárók, Európa Kiadó, Budapest, 1996
+Rosemaria Schuder: A boszorkány fia, regény Kossuth Könyvkiadó, Budapest, 1988 ISBN 963-09-3175-3
+L'udo Zúbek: Doktor Jesenius, regény, Szlovákiai Szépirodalmi Könyvkiadó-Móra Ferenc Könyvkiadó, Pozsony-Budapest, 1958
+L'udo Zúbek: Doktor Jesenius, regény,  Mladé Letá Könyvkiadó-Móra Ferenc Könyvkiadó, Pozsony-Budapest, 1966
+Kepler, Johannes, (1966): Strena, seu, de nive sexangula. (The six-cornered snowflake; - edited and translated from the Latin by Colin Hardie, with essays by L. L. Whyte and B. F. J. Mason - Clarendon Press, Oxford
+
+
+== Kapcsolódó szócikkek ==
+
+Kepler-törvények

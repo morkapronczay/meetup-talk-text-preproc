@@ -1,0 +1,83 @@
+Wilhelm Conrad Röntgen (Lennep, ma Remscheid része, 1845. március 27. – München, 1923. február 10.) Nobel-díjas fizikus, gépészmérnök, a róla elnevezett röntgensugárzás felfedezője.
+
+
+== Élete ==
+1845-ben született egy kis porosz városkában, a Düsseldorf melletti Lennepben (ma Remscheid, Németország).
+Édesapja Friedrich Conrad Röntgen posztógyáros volt, édesanyja a holland Charlotta Contanza Frowein. 1848-ban a családfő áttelepítette a gyárát a hollandiai Appeldoornba, és maguk is odaköltöztek. A fiatal Röntgen ott végezte el magánelemi iskoláját, majd Utrechtben egy ipariskolában folytatta tanulmányait. 1863-ban, érettségi előtt három hónappal kizárták az iskolából tiszteletlenség miatt (egyik diáktársa az egyik tanár karikatúráját rajzolta fel a táblára, amin ő jót nevetett, az alkotót pedig nem árulta el). Megengedték neki, hogy az érettségit magánúton letegye, de ez akkor nem sikerült, mert görögből és latinból is megbukott.
+1865-ben Zürichbe ment, és beiratkozott a helyi Műszaki Főiskolára — ez volt az egyetlen olyan főiskola német nyelvterületen, ahová érettségi nélkül is felvették (itt végzett Albert Einstein is). Itt irodalmi és művészeti előadásokat is hallgatott, de végül 1868-ban gépészmérnök diplomát szerzett. Tanulmányai alatt hallgatta Rudolf Clausius előadásait a  kinetikus gázelméletről, és egyre inkább a fizika érdekelte. Clausius nyugalomba vonulása után az egyetem fizikai katedráját August Kundt kísérleti fizikus töltötte be, és bevezette a fizika laboratóriumi gyakorlatokat. Ezeken figyelt fel Röntgen tehetségére, és rábeszélte, hogy tegyen doktori vizsgát fizikából. 1869-ben lett doktor; disszertációjának címe „Studien über Gase” volt. Az értekezésben szereplő vizsgálatokat tanára, August Kundt laboratóriumában végezte el. A cím megszerzése után Kundt asszisztense lett.
+1869-ben Kundttal együtt ment át a würzburgi egyetemre, de a fizetése oly csekély volt, hogy apjának rendszeresen támogatnia kellett. 1870-ben publikálta első tudományos értekezését az „Annalen der Physik und der Chemie” folyóiratban.
+1872. január 19-én háromévi jegyesség után Apeldoornban összeházasodott Anna Bertha Ludwiggal, egy zürichi vendéglős lányával.
+Mivel Röntgent (azzal az indokkal, hogy nincs érettségije) Kundt javaslata ellenére sem nevezték ki magántanárnak, Kundt 1872-ben elhagyta az egyetemet, és Röntgennel Strasbourgba ment. Ott 1874. március 14-én Röntgen megkapta a magántanár címet, és az oktatási engedély birtokában 1873–1874-ben a hohenheimi mezőgazdasági főiskolára került rendes tanárnak. A professzori címet is megszerezte fizikából és matematikából. Mivel az egyetemnek nem volt fizikai laboratóriuma, 1876-ban visszament Strasbourgba mint a fizika professzora, az elméleti fizika magántanára, és folytatta kísérleteit Kundttal.
+1879-től a Gießeni Egyetem kísérleti fizika tanszékét vezette. 1887-ben feleségével örökbe fogadták az akkor hatéves Josephine Bertha Ludwigot, felesége bátyjának lányát.
+1889-ben elvállalta a Würzburgi Egyetem fizikai intézetének vezetését; 1894-ben az egyetem rektorává választották.
+1900-ban a bajor kormány felkérésére a Müncheni Egyetemen lett a fizikai intézet igazgatója, egyúttal a fizikai-méréstechnikai gyűjtemény vezetője.
+1901-ben elsőként kapta meg a fizikai Nobel-díjat. A kapott díjjal járó összeget a Würzburgi Egyetemnek ajánlotta fel, ám az 1923-as pénzromlásban elinflálódott.
+Az első világháború alatt Amerikában tartózkodott, majd a háború után visszatért Münchenbe. Felesége 1919-ben halt meg. Röntgen 1920-ban vonult  részlegesen nyugdíjba, csak a gyűjtemény vezetését tartotta meg.
+A háború után rendkívül szűkös anyagi körülmények közé kényszerült, hiányosan táplált Röntgen szervezete nem tudott ellenállni az emésztőrendszerét megtámadó betegségnek, és 1923. február 10-én meghalt bélrákban. Elképzelhető, hogy a betegség kialakulásában közrejátszottak kísérletei.
+Végrendeletét végrehajtva minden levél-, illetve kézirat jellegű irományát elégették.
+
+
+== Tudományos munkássága ==
+Zürichben közreműködött Kundt kutatásaiban, az ozmózis jelenségét kutatták közösen, Würzburgban pedig a levegő fajhőjét mérte állandó nyomáson és térfogaton. Ez utóbbiról írta első tudományos értekezését, mely az Annalen der Physik und Chemie folyóiratban jelent meg.
+Strasbourgban Kundttal azt kutatta, hogyan hat a mágneses tér a polarizált fényre kénhidrogéngázban. Két évig tartó, intenzív kutatás eredményeit összefoglaló dolgozatuk tudományos körökben nagy feltűnést keltett.
+Vizsgálta, hogyan hat az elektromos tér a polarizált fényre folyadékokban. Itt megelőzte egy amerikai fizikus, John Kerr, így Röntgennek csak a felfedezés helyességének ellenőrzése maradt.
+A Gießeni Egyetemen főleg az elektromágneses és optikai jelenségeket vizsgálta. Elektrooptikai kísérletekkel 1885-ben bebizonyította a dielektromos polarizáció elektromágneses hatását, 1888-ban kimutatta, hogy a saját töltés nélküli dielektrikum állandó elektromos mezőben elektromos áramot gerjeszt (ezt a hatást Hendrik Lorentz javaslatára Röntgen-áramnak nevezték el). Ez a felfedezése jelentősen hatott James Clerk Maxwell munkásságára. Hívták dolgozni a jénai, majd az utrechti egyetemre, de ezeket az ajánlatokat nem fogadta el.
+
+
+=== A röntgensugárzás ===
+1894-ben kezdte a katódsugárzás kutatását, amihez eleinte Lénárd-féle kisülési csövet használt.
+1895. november 8-ról 9-re virradó éjszaka, Lénárd Fülöp és Heinrich Hertz kísérleteinek ismétlése közben figyelt fel arra, hogy az üzemeltetett kisülési cső mellett, fekete kartonpapírban tárolt fényképezőlemezeken előhívásuk után meg nem magyarázható feketedések látszottak.  Elkezdte vizsgálni ennek okát.
+1895. november 8-án kísérleteiben Röntgen a kisülési csőben az elektromos kisülést kísérő fényjelenségek kiszűrésére a csövet nem átlátszó fekete kartonpapírba csomagolta, így próbálta vizsgálni a katódsugár által előidézett fényt. Amikor a szikrainduktort a csőre kapcsolta, meglepődve tapasztalta, hogy a sötét laboratóriumban a cső közelében lévő, bárium-platina-cianiddal bevont papírlemez ernyő fluoreszkálni kezd, azaz fényforrásként viselkedik. Vizsgálni kezdte a titokzatos fény forrását.
+Amikor a cső és a világító papírlemez közé deszkát, jegyzetfüzetet helyezett, akkor is világított, csak haloványabban. Még jobban megdöbbent azon, hogy amikor kézfejét helyezte a cső és papírlemez közé, a lemezen a kézcsontjainak árnyképe tűnt elő. A fényforrás megszűnt, amikor a kisülési csőről lekapcsolta a feszültséget.
+
+A lemez már másfél–két méterről fénylett, tehát nem lehetett oka a katódsugárzás (az már néhány centiméter levegőben elnyelődik). A következő napokban és hetekben éjjel-nappal a laboratóriumban vizsgálta az új sugár tulajdonságait. Kimutatta, hogy a cső egy meghatározott részéből egyenes vonalban lép ki a sugárzás. Megállapította, hogy az új sugárzást – amit első dolgozatában X-sugárnak nevezett el – eltérő mértékben nyelik el a különböző anyagok, a fényhez hasonlóan egyenesen terjed, hatása fényképfelvételeken rögzíthető. Felesége kezéről mintegy 20 perc expozíciós idővel készített felvételt.
+1895. december 28-án adta át a helyi Fizikai-Orvosi Társulatnak a felfedezéséről szóló, „Über eine neue Art von Strahlen” közleményét. Ez 1896 elején jelent meg, és a világ minden pontjára eljutva hatalmas feltűnést keltett. Számos fizikusban merült fel a kérdés, hogy a napsugárzás hatására természetes körülmények között világító anyagok is kibocsátanak-e egyúttal efféle sugarakat — nagy erővel kezdték meg a foszforeszkálás kutatását. A Röntgen által inspirált kutatók egyike — Henri Becquerel — eközben fedezte fel (véletlenül) a radioaktivitást.
+Eredményeit a párizsi Akadémián Henri Poincaré mutatta be 1896. január 20-án. Maga Röntgen 1896. január 23-án a würzburgi intézetben a Fizikai-Orvosi Társulat előtt számolt be felfedezéséről. Ezen az előadáson felvételt készített Rudolf von Kölliker neves anatómus kezéről. Az előadás után a lelkes Kölliker javasolta, hogy az X-sugarat nevezzék el Röntgenről. Ezt a javaslatot általában pozitívan fogadták, de angol nyelvterületen kiejtési nehézségek miatt megmaradtak az X-sugárzás (X-ray) elnevezésnél.
+
+Ezek után több előadást tartott a sugarakról, többek közt a császár meghívására is. Különböző kitüntetéseket kapott, például Bajorország kitüntetését, amely nemesi rangra jogosította volna. Nem élt vele. Nem adta el szabadalmát sem.
+
+Tovább kutatta az X-sugarakat. Második megfigyelés-sorozatát 1896 márciusában tette közzé (a levegő és a többi gázok a sugarak hatására ionizálódnak, elektromos vezetővé válnak). Az ebben a második dolgozatban szereplő demonstrációs eszköz alapján konstruálták meg később a röntgencsöveket.
+Az X-sugarakról írt harmadik és egyben utolsó értekezése 1897 májusában jelent meg. Ebben rögzítette, hogy a csőből kijövő sugarak tulajdonságai erősen függnek a csőre kapcsolt feszültségtől — áthatoló képességük nő, ha a katódsugárcsőben növeli a feszültséget. A sugarakat nem térítette el se az elektromos, se a mágneses tér, tehát alapvetően különböztek a katódsugárzástól. Megállapította, hogy a sugarak a levegőben szóródnak, és egyúttal ionizálják a gázt.
+Kimutatta, hogy a sugarak ott jönnek létre, ahol a katódsugárzás részecskéi (elektronjai) az üvegcső falába ütköznek. Rájött, hogy a röntgensugárzás intenzitása lényegese növelhető, ha a katódsugarak útjába nehézfém lemezt, úgynevezett antikatódot tesz — ez lefékezi az elektronokat, és a fékezési energia alakul igen rövid hullámhosszú elektromágneses sugárzássá. A fékezési sugárzás spektrális eloszlása folyamatos (nincsenek benne kitüntetett vagy hiányzó hullámhosszok).
+Az általa felfedezett sugárzást az éter longitudinális rezgésének tekintette. Ez az elképzelése tévesnek bizonyult. A sugárzás keletkezésének mechanizmusából Ernst Wiechert és George Gabriel Stokes már 1896-ban arra következtetett, hogy a röntgensugarak valószínűleg nagyon rövid hullámhosszú fénysugarak. Végül Charles Glover Barkla polarizációs vizsgálatai és Max von Laue interferenciás kísérletei bizonyították, hogy a röntgensugarak transzverzális hullámok és elhajlíthatók.
+Utolsó tudományos munkája, amit Abram Iofféval közösen végzett kísérletei alapján írt a kristályok fizikájáról, 1920-ban, nyugdíjba vonulásának évében jelent meg.
+
+
+== A felfedezés fogadtatása ==
+Miután különvált August Kundttól, Röntgen mindig magányosan, szinte titkolózva dolgozott, gyakorlatilag senki sem tudta, hogy mit csinál éppen. Mivel a röntgensugárzás némely hatásait más kutatók is észlelték (bár nem tulajdonítottak ezeknek jelentőséget), a tudományos közéletben különféle, Röntgen elsőségét kétségbe vonó mendemondák kaptak szárnyra. Mivel a döntő felfedezésnek nem voltak szemtanúi, magáról a kísérletről pedig Röntgen meglehetősen bizonytalanul, olykor magával is ellentmondásba keveredve számolt be, élete végéig védekeznie kellett a gyanúsítások ellen.
+Korszakalkotó felfedezése miatt elsőként, 1901-ben ő kapta meg a fizikai Nobel-díjat.
+Az ő nevét viseli a besugárzási dózis alapegysége, a röntgen (1 R=0,000258 C/kg).
+
+
+== Fontosabb művei ==
+Über eine neue Art von Strahlen (A sugárzások egy új fajtájáról) — 1895/1896.
+Weitere Beobachtungen über X-Strahlen (További megfigyelések az X-sugarakról) — 1897.
+
+
+== Emlékezete ==
+A 111. rendszámú elemet róla nevezték el röntgeniumnak (Rg).
+A Röntgen-csúcs az Antarktisz egyik hegye.
+Szülőházában rendezték be a Német Röntgen-Múzeumot (Deutsches Röntgen-Museum).
+Würzburgban egy nonprofit szervezet rekonstruálta egykori laboratóriumát. Ez a Röntgen-emlékhely vezetett túrákon megtekinthető.
+
+
+== Fordítás ==
+Ez a szócikk részben vagy egészben  a   Wilhelm Röntgen című angol Wikipédia-szócikk ezen változatának fordításán alapul.  Az eredeti cikk szerkesztőit annak laptörténete sorolja fel.
+
+
+== Jegyzetek ==
+
+
+== Források ==
+Aaseng, Nathan: The Inventors. Minneapolis, MN: Lerner Publications, 1998
+Claxton, Keith: Wilhelm Roentgen. London: Heron Books, 1994
+Dibner, Bern: Wilhelm Conrad Röntgen and the Discovery of X-Rays. New York: Franklin Watts, 1998
+Esterer, Arnulf: Discoverer of X-Rays: Wilhelm Roentgen. New York: J. Messner, 1997
+Garcia, Kimberly: Wilhelm Roentgen and the Discovery of X-Rays. Hockessin, DE: Mitchell Lane, 2002
+Nitske, Robert: The Life of Wilhelm Conrad Röntgen, Discoverer of the X-Ray. Tucson: University of Arizona Press, 1996
+Fehér György: Röntgen, Wilhelm Conrad. In: Vészits Ferencné (szerk.): A Nobel-díjasok kislexikona. Gondolat, Budapest, 1974. pp. 499–502.
+
+
+== További információk ==
+Deutsches Röntgen-Museum
+Röntgen-emlékhely (angolul)

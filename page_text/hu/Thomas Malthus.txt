@@ -1,0 +1,78 @@
+Thomas Robert Malthus (Surrey, 1766. február 13. – Bath, 1834. december 23.) angol anglikán pap, demográfus, az angol klasszikus közgazdaságtan jelentős képviselője.
+
+
+== Életrajza ==
+Régi angol nemesi családból származott, apja a filozófus David Hume jóbarátja volt, sőt Jean-Jacques Rousseau-val is ismeretségben állt.
+Malthus fiatalon lelkésznek készült, 1784-től a Cambridge-i Jesus College hallgatója volt, elsősorban matematikát tanult. Itt fejlesztette ki népesedési elméletét is. 1797-ben pappá szentelték.
+1804-ben megnősült, később három gyermeke született. 1805-ben a Haileybury-i (Hertfordshire) East India Company College-ban a politikai gazdaságtan professzorává avatták – ezt a címet a világon elsőként viselte. Itt a keresleti-kínálati zavarokról szóló elméletén dolgozott – ezen a téren tett megállapításai fontos alapját képezték John Maynard Keynes munkásságának.
+
+
+== Művei ==
+
+Első műve az 1798-ban írott Tanulmány a népesedés törvényéről (An Essay on the Principle of Population). Ebben főleg Benjamin Franklin amerikai polihisztor megfigyeléseire hivatkozva megállapította, hogy míg az élelmiszertermelés legfeljebb számtani sorozat szerint tud növekedni (tehát például 1, 2, 3, 4, 5, …), addig a népesség mértani sorozat szerint nő (1, 2, 4, 8, 16, …). Ennek megfelelően egységnyi élelmiszerre egyre több és több ember jut. Ahelyett tehát, hogy a gazdasági növekedés következtében a jólét kiterjedne a társadalom valamennyi csoportjára, ahogy azt korának jelentős gondolkodói hitték, Malthus szerint a nyomor ölt majd egyre nagyobb és nagyobb méreteket. De, hogy ez a tendencia ne váljon végzetessé, arról maga a természet gondoskodik a háborúk, a betegségek és a bűn segítségével. Malthus többféle módját is felsorolta a népességnövekedés féken tartásának: későn kötött házasság, szexuális tartózkodás, fogamzásgátlás, abortusz. (Utóbbi kettőt morálisan nem tartotta elfogadhatónak.) Ellenezte a szegényeknek juttatott szociális támogatásokat is, mondván, hogy azok közvetve a népesség gyorsabb növekedését eredményezik, fenntartva a szegénységet. Helyette a kiemelést a szegénységből, az erkölcsi nevelést, és az oktatást ajánlotta. A segélyekről szóló érvelését a 19. század során gyakran visszhangozták a segélyezés ellenfelei. Az elmélet pesszimista képét még komorabbá tette azzal, hogy valószínűsítette: a népességkorlátozó eszközök csak időben kitolják, de nem akadályozzák meg a jövőbeli katasztrófát.
+Malthus a későbbiekben többször gyűjtött adatokat, amelyekkel kibővített művét újra és újra kiadta.
+Elméletének hosszú ideig nagy befolyása volt, később azonban egyértelművé vált, hogy sem az élelmiszertermelésre, sem a népességnövekedésre vonatkozó előrejelzései nem állták meg a helyüket. Maga a probléma azonban, hogy a népesedés lehetőségeivel szemben a Föld erőforrásai nem végtelenek, ma is fennáll. Az elméletnek volt haszna a 19. században is, következményeként ugyanis az angol és az európai értelmiség eltávolodott attól a korábbi meggyőződéstől, hogy a népességnövekedésnek egyértelműen pozitív hatásai vannak egy ország gazdasága számára.
+A népesedési elmélet talán legnagyobb haszna pedig nem is a demográfia, a politika vagy a közgazdaságtan területén jelentkezett: Charles Darwin számos helyen használta fel Malthus nézeteit evolúciós elméletének megalkotásához.
+
+
+== Közgazdasági nézetei ==
+1820-ban írott, A közgazdaságtan elvei, tekintettel gyakorlati alkalmazásukra (Principles of Political Economy: Considered with a View to their Practicial Application) című művében már egyértelműen közgazdasági kérdésekkel foglalkozott. Elutasította mind a David Ricardo nevéhez fűződő munkaérték-elméletet, mind a klasszikus közgazdászok körében széles körben elfogadott Say-dogmát. (A 20. század közgazdászainak túlnyomó többsége, köztük John Maynard Keynes, már Malthusszal értett egyet ebben a két kérdésben.) Az áru értékét az áruért vásárolható munka mennyiségével határozta meg. Ábrázolásában a munkás megkapja a munkája teljes ellenértékét, a nyereség viszont onnan származik, hogy az árut több munkáért adják el, mint amennyit tartalmaz. (A marxisták szerint a munkást a tőkések így, mint vevőt zsákmányolják ki, holott Malthus éppen a kizsákmányolást akarta tagadni.) S Malthus szerint a nyereség nagysága a kereslet-kínálattól függ.
+A gazdasági növekedés alapfeltétele Malthus felfogásában a megfelelő kereslet megléte. Ezért tévesnek tartja Ricardo és Say elméletét, mely szerint a felhalmozás biztosítja a keresletet. A tőkéseknek Malthus szerint nincs meg a szándéka, a munkásoknak pedig a képessége a keresletnek a felhalmozáshoz igazodó növelésére. Emiatt szükségesnek nevezte a nem termelő, csak fogyasztó rétegek (az úgynevezett „harmadik személyek”: hivatalnoki réteg, papság, katonaság) meglétét a társadalomban: ha ugyanis az emberek nem költik el a rendelkezésükre álló jövedelmet (és Malthus szerint ez gyakran előfordul), ők azok, akik fogyasztásukkal közelebb viszik a keresletet a kínálathoz, így csökkentik a gazdasági válságok mélységét.
+További fontos művei:
+
+An Essay on the Principle of Population (Tanulmány a népesedés elvéről)* (Névtelenül. London, 1798)
+An Investigation of the Cause of the Present High Price of Provisions (1810)
+Observations on the Effects of the Corn Laws (1814)
+An Inquiry into the Nature and Progress of Rent and the Principles by which it is Regulated (Vizsgálódás a járadék természetéről és fejlődéséről és azokról az elvekről, melyek szabályozzák) (London, 1815)
+Principles of Political Economy considered with a View to their Practical Application** (2. kiad. London, 1836)
+Definitions in Political Economy (Politikai gazdaságtani meghatározások)*** (London, 1853)
+Principles etc.*Magyar kiadás: Tanulmány a népesedés törvényéről (Budapest, 1902)
+**Magyar kiadás: A közgazdaságtan elvei, tekintettel gyakorlati alkalmazásukra (Budapest, 1940)
+***Cazenove kiadása
+
+
+== Halála után ==
+
+…amelyet Malthus, a plágiumnak egyáltalában mestere (egész népesedéselmélete szemérmetlen plágium), 1815-ben bekebelezett…
+Karl Marx: A Tőke 471. old. (Szikra, 1949)
+…mondja Malthus, hogy „a költekezés szenvedélyét és a felhalmozás szenvedélyét („the passion for expenditure and the passion for accumulation”) szétválasztva tartsuk” (Malthus: „Principles etc.” 319., 320. old.)
+Karl Marx: A Tőke 552., 553. old. (Szikra, 1955)
+Ha az olvasó Malthusra emlékeztetne, akinek „Essay on Population”-ja 1798-ban jelent meg, akkor én arra emlékeztetem, hogy ez az írás első formájában nem más, mint iskolásan felületes és paposan fellengzős plágium.
+Karl Marx: A Tőke 571. old. (Szikra, 1955)
+Marx „ügyes plagizátornak” nevezi. „Tulajdonképpeni érdeme abban áll, hogy a főhangsúlyt a tőke és bérmunka nem egyenlő cseréjére fekteti.” A proletariátusnak születésszabályozást ajánlott a kapitalizmussal velejáró nyomor gyógyszereként. Ezt a népesedési „elméletet” napjainkban az imperializmus szolgálatába állították.
+Karl Marx: A Tőke 744. old. (Szikra, 1955)
+… a lakosság gyér… persze, a Malthus-elmélet: a tulnépesedés a főoka a társadalom bajainak.
+Multatuli: Jáva gazdag és éhezik 69. old. (Szikra, 1950)
+De ez az „elmélet” nemcsak szerzőjének, hanem követőinek is népellenességét tükrözi.
+Balla Aladárné: 1930. szeptember 1. (Szikra-Magyar Munkásmozgalmi Intézet, 1951)
+
+Halála után John Cazenove 1853-ban kiadta a saját jegyzeteivel Malthus „Definitions in Political Economy” (Politikai gazdaságtani meghatározások) c. művét
+Máig ismeretlen szerző 1821-ben az An Inquiry into those Principles respecting the Nature of Demand and the Necessity of Consumption, lately advocated by Mr. Malthus (Vizsgálódás azokról a kereslet természetére és a fogyasztás szükségességére vonatkozó alapelvekről, amelyeket nemrég védelmezett Malthus úr) c. művet írta.
+Jean-Baptiste Say (1767-1832) 1820-ban Lettres à M. Malthus sur différents sujets d’économie politique, notamment sur les causes de la stagnation générale du commerce (Levelek Malthus úrhoz a politikai gazdaságtan különféle kérdéseiről, nevezetesen a kereskedelem általános pangásának okairól) címmel adott ki könyvet.
+
+
+== Magyarul ==
+Tanulmány a népesedés törvényéről; ford., bev. György Endre; Politzer, Bp., 1902 (Nemzetgazdasági írók tára)
+A közgazdaságtan elvei tekintettel gyakorlati alkalmazásukra; ford. Neubauer Gyula; Magyar Közgazdasági Társaság, Bp., 1940
+
+
+== Források ==
+Közgazdasági kislexikon. Főszerk. Gyenis János. 3. bőv. kiadás. Budapest: Kossuth. 1977. ISBN 978-963-09-0881-8  (isbn 963-09-0881-6)
+Mátyás Antal: A polgári közgazdaságtan története a marxizmus megjelenése előtt (Tankönyvkiadó, 1976)
+Karl Marx: A gothai program kritikája (Szikra, 1953)
+Karl Marx: A tőke (Szikra, 1949)
+Karl Marx: A tőke (Szikra, 1955)
+Multatuli: Jáva gazdag és éhezik (Szikra, 1950)
+Balla Aladárné: 1930. szeptember 1. (Szikra-Magyar Munkásmozgalmi Intézet, 1951)
+A félreértett Malthus
+Malthus a népesedésről
+Peter Hagget: Geográfia. Globális szintézis. 182-183. OLD. Typotex Kiadó, 2006. ISBN 963-9548-60-X
+
+
+== Irodalom ==
+Jared Diamond: Összeomlás. Tanulságok a társadalmak továbbéléséhez. 305-322. old. Typotex Kiadó, 2007. ISBN 978-963-9664-69-2
+
+
+== További információk ==
+Paul Krugman: A bit more on Malthus
+Bleicher Miksa: Hamis tanok / A munkabér theoria / Malthus tana; Márkus Ny., Bp., 1898

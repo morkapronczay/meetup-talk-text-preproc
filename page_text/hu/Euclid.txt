@@ -1,0 +1,22 @@
+A Euclid (Alexandiai Euklidész ókori görög matematikus, a „geometria atyja” neve után) az ESA űrtávcsöve, melyet a sötét anyag és a sötét energia tulajdonságainak, ezen keresztül az Univerzum geometriájának jobb megismerésére terveznek. 2019-ben indítják a Nap-Föld rendszer L2 Lagrange-pontjába.
+
+
+== Története ==
+Az ESA Cosmic Vision 2015-2025 programjának felhívására eredetileg két, egymáshoz hasonló küldetésre adtak be pályázatot. A Dark Universe Explorer (DUNE, magyarul Sötét univerzum felfedező, a név utalás a Frank Herbert A Dűne című regényére) a sötét anyag eloszlását a galaxisok körüli gyenge gravitációs lencséket tervezte  feltérképezni, a Spectroscopic All Sky Cosmic Explorer (SPACE, angolul űr, a rövidítés jelentése Színképi teljes-ég kozmikus felfedező) pedig a galaxisok vöröseltolódásának mérésével térbeli eloszlásukat tervezte felmérni. A Euclid a két tervezett küldetés egyesítésével (az érzékelők egy, közös távcsőre építésével) jött létre.
+
+
+== Felépítése ==
+Az 1,2 méter átmérőjű Korsch–rendszerű űrtávcső a teljes égbolt mintegy felén, 20 000 négyzetfokos területen (a Tejút által nem takart részen) fogja a z=2-nél kisebb vöröseltolódású (mintegy 10 milliárd fényévnél közelebbi) galaxisokat fényképezni a látható fényben, 24,5 magnitúdós határfényességig, valamint a közeli infravörös három (Y, J, H) sávjában a teljes látómezőre fotometriát fog végezni. (Ebből meg lehet becsülni minden egyes galaxis távolságát). Minden egyes látómezőben körülbelül 100 kiválasztott, 22 magnitúdónál fényesebb galaxisra (λ/Δλ=400 pontosságú) színképelemzést is el fog végezni az infravörös tartományban, ez a kiválasztott galaxisok távolságának pontosabb mérését teszi lehetővé. Emellett egy kisebb, 40 négyzetfokos területen egy nagyobb érzékenységű felmérést is el fognak végezni.
+
+
+=== Tervezett műszerek ===
+A látható fény tartományában működő CCD-s képalkotó műszer a gyenge gravitációs lencsézés észlelésére
+Közeli infravörös fotométer
+Közeli infravörös spektrométer
+
+
+== Külső hivatkozások ==
+A Euclid honlapja
+
+
+=== Lábjegyzetek ===

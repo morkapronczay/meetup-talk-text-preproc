@@ -1,0 +1,47 @@
+Enrico Fermi (Róma, 1901. szeptember 29. – Chicago, 1954. november 28.) olasz fizikus, aki a béta-bomlással kapcsolatos munkája, az első nukleáris reaktor kifejlesztése, és a kvantumelmélet fejlesztése kapcsán ismert. Fermi 1938-ban fizikai Nobel-díjat kapott az indukált radioaktivitással kapcsolatos munkájáért.
+
+
+== Életrajz ==
+
+
+=== Fizika Rómában ===
+Enrico Fermi Rómában született, 1901-ben.
+PhD-témavezetője Luigi Puccianti volt. 1924-ben egy félévet töltött Göttingenben, majd néhány hónapig Leidenben volt Paul Ehrenfest mellett. Mindössze 24 éves volt, amikor professzor lett a római La Sapienza Egyetemen, az első elméleti fizika professzor, amely posztot Orso Mario Corbino, a Fizikai Intézet igazgatója kreálta neki. Corbino segített Ferminek, hogy összeválogassa a csoportját, amelyhez hamarosan olyan nevek csatlakoztak, mint Edoardo Amaldi, Bruno Pontecorvo, Franco Rasetti és Emilio Segré. Kizárólag elméleti kutatások területén Ettore Majorana szintén bekapcsolódott a csoportba, amit hamarosan a Panisperna utcai fiúk néven emlegettek az út neve után, ahol az intézet laboratóriumai voltak.
+A csoport nevezetes kísérleteket végzett, de 1933-ban Rasetti Kanadába és az Egyesült Államokba, Pontecorvo Franciaországba távozott, Segré pedig Palermóba ment tanítani.
+Rómában Fermi és csoportja sok praktikus és elméleti hozzájárulással gazdagította a fizikát. Ilyenek voltak például a Fermi-Dirac-statisztika, a béta-bomlás elmélete és a lassú neutronok felfedezése, ami sarkalatosnak bizonyult a nukleáris reaktorokkal kapcsolatos munkában.
+
+
+=== Nobel-díj és a Manhattan terv ===
+
+Fermi 1938-ig maradt Rómában. 1938-ban elnyerte a fizikai Nobel-díjat "neutron besugárzással létrehozott új radioaktív elemek létezésének kimutatásáért, és a lassú neutronok által indukált magreakciók kapcsolódó felfedezéséért".
+Miután Fermi Stockholmban megkapta a díjat, felesége és gyermekeik New Yorkba emigráltak. Erre az időre a fasiszta kormány antiszemita törvényeket vezetett be, és Fermi felesége, Laura Capon zsidó volt. New Yorkba való megérkezése után nem sokkal Fermi a Columbia Egyetemen kezdett dolgozni.
+A Columbián Fermi – Booth és Dunning segítségével – ellenőrizte Otto Hahn és Fritz Strassman maghasadásos kísérletét. Fermi ezután kutatásba kezdett, ami az első nukleáris máglya megépítéséhez vezetett.
+Fermi megemlékezett a téma kezdeteiről, amikor 1954-ben leköszönt az American Physical Society elnöki posztjáról:
+
+"Nagyon élénken emlékszem 1939 januárjára, amikor a Pupin Laboratóriumokban kezdtem dolgozni, mert a dolgok nagyon gyorsan kezdtek történni. Akkoriban Niels Bohrnak előadói elkötelezettsége volt a Princetoni Egyetemen, és egy délután Willis Lamb nagyon izgatottan jött vissza azzal, hogy Bohr nagyszerű híreket szivárogtatott ki. A nagyszerű hír a maghasadás volt, és a magyarázatnak legalábbis a vázlata. Ezután, még ebben a hónapban, volt Washingtonban egy találkozó, ahol félkomolyan megtárgyaltuk az új felfedezés lehetséges fontosságát, mint a nukleáris energiatermelés lehetséges forrását.
+
+1939 augusztusában Szilárd Leó megírta és Albert Einstein aláírta a híres levelet, hogy figyelmeztessék Franklin D. Roosevelt elnököt arra a lehetőségre, hogy a nácik atombombát építenek. Hitler szeptember 1-jei lengyelországi inváziója miatt csak októberre tudták elrendezni a személyes kézbesítést (a sofőr Teller Ede volt, mert Szilárdnak nem volt jogosítványa). Sikerült Roosevelt aggodalmát annyira felkelteniük, hogy létrehozta az Uránbizottságot és a Columbia Egyetemnek megítélte az első atomenergia-alapot 6000 dollár értékben. Mindazonáltal a pénzt a bürokraták – azon félelmeik miatt, hogy a pénzt a külföldiek titkos kutatásokra fordítják – nem utalták át addig, amíg Szilárd nem esedezett Einsteinnek, hogy küldjön még egy levelet Rooseveltnek 1940 tavaszán. A pénzt az első atomreaktorhoz vezető kutatásokra költötték. Ez a Chicago Pile-1 volt, egy nagy atommáglya, ami grafittéglákból és urántüzelőanyagból épült fel, ami 1942. december 2-án érte el a kritikus tömeget. Egy squash-pályán épült a Chicagói Egyetem amerikai futball-stadionja alatt (Stagg Field). Ez a kísérlet mérföldkő volt az energiakutatások terén, és jellemző volt Fermi éleselméjűségére. Minden lépést gondosan megterveztek, minden számítást aprólékosan ő végzett. Amikor az első szabályozott láncreakciót elérték, kódolt telefonüzenet ment a Manhattan Project egyik vezetőjének, James Bryant Conantnek: 'Az olasz hajós partot ért… A bennszülöttek nagyon barátságosak voltak'. A láncreakciós máglya nemcsak a hasadás tulajdonságainak felbecsülése miatt volt fontos – ami szükséges volt az atombomba belső működésének megértéséhez –, hanem mert útmutatással szolgálhatott nagyobb reaktorok – mint Hanfordban (Washington állam) – építéséhez, amiket plutónium tenyésztésére alkalmazhattak a bombákhoz, amiket az első atombomba kifejlesztése során és Nagaszakiban használtak fel. Történetesen Fermi és Szilárd reaktorát beillesztették a Manhattan terv-be.
+Fermi 1944-ben lett az Egyesült államok honosított állampolgára.
+
+
+=== Háború utáni munka ===
+Fermi 1954-es az APS-nél tartott beszédében ezt is mondta, "Nos, ez már Pearl Harbor ideje. Ekkor hagytam el a Columbia Egyetemet, és néhány hónapi Chicago és New York közötti ingázás után végül Chicagoba költöztem, hogy itt folytassam a munkát, és attól kezdve néhány kivétellel a Columbián folyó munka az atomenergia projekt izotópszeparálási fázisára koncentrált, amit Booth, Dunning és Urey kezdeményezett 1940 körül."
+Fermiről széles körben úgy tartják, hogy ő volt a 20. század egyetlen fizikusa, aki elméleti és kísérleti téren is kiemelkedett. Az ismert fizikatörténész C. P. Snow írta róla, hogy "ha Fermi néhány évvel korábban született volna, az ember jól el tudná őt képzelni, mint aki felfedezi Rutherford atommagját, utána kifejlesztve a Bohr hidrogénatom-modelljét. Ha ez túlzásnak hangzik, akkor Fermiről bármi túlzásnak hangzik". Fermi képességei és sikere a lehetséges művészetének dicséretének, veleszületett ügyességének és intelligenciájának volt köszönhető. Nem szerette a bonyolult elméleteket, és bár nagyszerű matematikai képességei voltak, sohasem használta őket, amikor valamit sokkal egyszerűbben is meg lehetett oldani. Híres volt gyors és pontos megoldásairól olyan problémákkal kapcsolatban, amik másokat zavarba ejtettek. Egy ilyen eset történt az első atombombateszt idején Új-Mexikóban 1945. július 16-án. Ahogy a lökéshullám elérte őt, leejtett papírdarabkákat. A távolságot megmérve, amilyen messzire a lökéshullám fújta őket, összehasonlította egy korábban kiszámolt táblázattal, és így megbecsülte a bomba energiáját. 10 kilotonna TNT-t kapott, a mért eredmény 18,6 volt (Rhodes, 674. o.). később ezen módszere, a gyors válaszok megkeresése egy boríték hátoldalán, mint Fermi-módszer vált ismertté.
+
+Fermi leglefegyverzőbb vonása nagy udvariassága volt, és hogy bármilyen munkát el tudott végezni, kreatívat vagy rutinmunkát is. Ez volt az a kvalitása, ami népszerűvé tette őt mindenféle rétegből származó emberek között, a Nobel-díjasoktól a műszakiakig.
+Amikor elküldte híres cikkét a béta-bomlásról a nagy tekintélyű Nature-nek, a szerkesztő elutasította, mert "a realitásoktól távol álló spekulációkat tartalmazott". Így Fermi előbb látta cikke olasz és német nyelvű publikációját, mielőtt angolul megjelent volna. Soha nem felejtette el ezt az esetet, amikor megelőzte korát, és azt szokta mondogatni pártfogoltjainak: "Sose legyél első, próbálj második lenni".
+1954. november 28-án, 53 évesen halt meg gyomorrákban Chicagóban, ahol az Oak Woods Cemetery-ben temették el. Ahogy Wigner Jenő írta: "Tíz nappal halála előtt azt mondta nekem, 'Remélem, nem tart sokáig', teljesen felkészült a végzetére".
+
+
+== Jegyzetek ==
+
+
+== További információk ==
+
+Jéki László: Fermi, az atomenergia felszabadítója - Hetedhéthatár
+Laura Fermi, Atoms in the Family: My Life with Enrico Fermi (Chicago: University of Chicago Press, 1954) ISBN 0-226-24367-2
+Richard Rhodes, The Making of the Atomic Bomb (New York: Simon and Schuster, 1986).
+C. P. Snow, "The Physicists" (Toronto: Little, Brown, 1981)
+Emilio Segrè, Enrico Fermi – Physicist
+Fermi hangos életrajza: (http://www-news.uchicago.edu/fermi/resources.html)
+Laura Fermi: Atom a családban. Enrico Fermi élete; ford. Tornai József, utószó Maróti Lajos; Gondolat, Bp., 1966

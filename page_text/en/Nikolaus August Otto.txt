@@ -1,0 +1,81 @@
+Nikolaus August Otto (14 June 1832, Holzhausen an der Haide, Nassau – 26 January 1891, Cologne) was a German engineer who successfully developed the compressed charge internal combustion engine which ran on petroleum gas and led to the modern internal combustion engine. The Association of German Engineers (VDI) created DIN standard 1940 which says "Otto Engine: internal combustion engine in which the ignition of the compressed fuel-air mixture is initiated by a timed spark", which has been applied to all engines of this type since.
+
+
+== Biography ==
+
+Nikolaus August Otto was born on 14 June 1832 in Holzhausen an der Haide, Germany. He was the youngest of six children. His father died in 1832. He began school in 1838. After six years of good performance he moved to the high school in Langenschwalbach  until 1848. He did not complete his studies but was cited for good performance.
+His main interest in school had been in science and technology but he graduated after three years as a business apprentice in a small merchandise company. After completing his apprenticeship he moved to Frankfurt where he worked for Philipp Jakob Lindheimer as a salesman of "colonial goods" and agricultural products (he was a grocery salesman). Otto worked for various companies, first for IC Alpeter and then in 1860 for Carl Mertens. He traveled throughout Western Germany and sold colonial goods - coffee, tea, rice, and sugar.
+
+
+== Lenoir engine ==
+In late autumn of 1860 Otto and his brother learned of a novel gas (illuminating gas) engine that Jean Joseph Etienne Lenoir had built in Paris. The brothers built a copy of the Lenoir engine and applied for a patent in January 1861 for a liquid fueled engine based on the Lenoir (Gas) engine with the Prussian Ministry of Commerce, but it was rejected.
+
+
+== First four stroke engine, 1861 ==
+Otto was aware of the concept of compressed fuel charge and tried to make an engine using this principle in 1861. It ran for just a few minutes before breaking.  Otto's brother gave up on the concept, resulting in Otto looking for help elsewhere.From 1862 to 1863 Otto experimented with the help of Cologne Mechanic Michael J. Zons in an effort to improve the engine. Running low on funds, in 1862 Otto worked for Carl Mertens in order to continue work on his engine.
+
+
+== Enter Eugen Langen ==
+Early in 1864, Otto sought investors to fund his research. He found Eugen Langen, whose father was a sugar industrialist.  Together they entered into a partnership on 31 March 1864 and named it NA Otto & Cie in Cologne. This was the world's first company focused entirely on the design and production of internal combustion engines.The 1864 Otto & Langen engine was a free piston atmospheric engine (the explosion of gas was used to create a vacuum and the power came from atmospheric pressure returning the piston). It consumed less than half the gas of the Lenoir and Hugon atmospheric engines and so was a commercial success. The Lenoir engine was a double acting engine.  In essence these engines are a steam engine altered to run on illuminating gas. The engines of Italian inventors Eugenio Barsanti and Felice Matteucci in their British Patent no 1625 of 1857, were built and are in a museum. Unlike Otto's engine these are two stroke atmospheric engines which are not in any way comparable.
+Lenoir's engines were the first to be put into serial production with numbers sold being around 700.
+The Otto engine which is the predecessor of the modern engine as specified by the VDI is Otto's fourth design.  He built the following engines:
+
+1861: a copy of Lenoir's atmospheric engine
+1862: a four cycle compressed charge engine (prior to Rochas's patent) which failed as it broke almost immediately
+1864: the first successful atmospheric engine
+1876: the four stroke compressed charge engine which is acknowledged as the "Otto" cycle engine. The term "Otto cycle" is applied to all compressed charge, four cycle engines.For all its commercial success, with the company producing 634 engines a year by 1875, the Otto and Langen engine had hit a technical dead end: it produced only 3 hp (2.2 kW; 3.0 PS), yet required 10–13 ft (3.0–4.0 m) headroom to operate.Otto turned his attention to the four stroke cycle which he had failed at in 1862. Largely due to the efforts of Franz Rings and Herman Schumm, who were brought into the company by Gottlieb Daimler Otto succeeds in making the Four Stroke, Compressed Charge engine. It is this engine (the Otto Silent Engine), and not the Otto & Langen engine, to which the "Otto cycle" refers. This was the first commercially successful engine to use in-cylinder compression. The Rings-Schumm engine appeared in autumn 1876 and was immediately successful.Otto married Anna Gossi and the couple had seven recorded children. His son Gustav Otto grew up to become an aircraft builder.
+
+
+== The Otto cycle ==
+
+The Otto engine was designed as a stationary engine and in the action of the engine, the stroke is an upward or downward movement of a piston in a cylinder. Used later in an adapted form as an automobile engine, four strokes are involved:
+
+(1) downward intake stroke—coal-gas and air enter the piston combustion chamber,
+(2) upward compression stroke—the piston compresses the mixture,
+(3) downward power stroke—ignites the fuel mixture by flame and later electric spark,
+(4) upward exhaust stroke—releases exhaust gas from the piston chamber.Otto only sold his engine as a stationary motor.
+
+
+== Earlier patents ==
+
+Otto had obtained many patents from several different nations and for several different features. When his former manager Gottlieb Daimler wanted to build small engines for transportation Otto showed no interest. Daimler left and took Maybach with him. Daimler had no desire to pay royalties to Otto (Deutz AG) and so hired a lawyer to find a solution. What the lawyer found was a patent for the concept of a four cycle engine that had been issued to Beau De Rochas, a French engineer, in 1862. This resulted in Otto losing one of his patents and allowed Daimler to sell his engines in Germany without paying royalties. Neither Otto nor Daimler were aware of the Rochas patent. Rochas never built an engine. It is likely he could not have done so.Several of the inventions that are sometimes mentioned as having preceded the Otto engine, such as Marcus, Barsanti, etc. are for two cycle (two stroke) atmospheric engines which do not compress the fuel charge. Otto's atmospheric engine is not the VDI (and other associations) Otto engine type. The only significant engines were those from Lenoir. His engines were the first to go into serial production. Lenoir eventually sold approximately 700 engines.
+
+
+== Production ==
+Over 50,000 engines were produced in the 17 years following introduction.
+
+
+== Honors ==
+Otto received numerous honors for his engines.  
+
+The 1864 atmospheric engine won the Gold Medal in the 1867 World Exhibition in Paris.
+In 1882 Otto received an Honorary Doctorate from the University of Würzburg.
+His home has been turned into a museum which is promoted by the local government.
+in 1936 Professor Nagël, head of the Association of German Engineers, decreed that DIN Standard 1940 specify that "Ottomotor" applies to all engines that draw in a fuel mix, compress it and ignite it by special device, thus replacing the terms such terms as "explosion motor", "detonation engine", "benzine engine", and "ignition engine."
+
+
+== Milestones ==
+1862: First experiments with four-stroke engines
+1864: Establishing the first engine factory in the world: NA Otto Cie
+1867: Gold Medal of the World Exhibition in Paris for the gas engine
+1869: The company relocates and changes its name to Langen, Otto, and Roosen
+1872: The company relocates to larger facilities and changes its name to Deutz Gasmotoren Fabrik
+1876: Development of four-stroke engine (Otto-motor)
+1882: Production of the Atmospheric engine is discontinued after 2649 were made
+1884: Nikolaus Otto invents the electric ignition
+1885: Gottlieb Daimler and Karl Benz built the first automobiles using liquid petroleum engines.
+
+
+== See also ==
+History of the internal combustion engine
+German inventors and discoverers
+
+
+== References ==
+
+Wise, David Burgess. "Daimler: Founder of the Four-Wheeler", in Northey, Tom, ed. World of Automobiles Volume 5, pp. 481–3. London: Orbis, 1974.
+
+
+== External links ==
+U.S. Patent 0,194,047—1877
+U.S. Patent 0,365,701

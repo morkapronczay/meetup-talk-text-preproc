@@ -1,0 +1,29 @@
+Guglielmo Marconi [guʎ'ʎe:lmo mar'ko:ni] (n. 25 aprilie 1874 la Bologna - d. 20 iulie 1937 la Roma) a fost  inginer și fizician italian, inventatorul telegrafiei fără fir și a antenei de emisie legate la pământ (unde radio), laureat al Premiului Nobel pentru Fizică în anul 1909 împreună cu Karl Ferdinand Braun, pentru contribuțiile lor în dezvoltarea telegrafiei fără fir.
+
+
+== Viața ==
+Guglielmo Marconi s-a născut la Bologna, Italia pe 25 aprilie 1874, ca al doilea fiu al italianului Giuseppe Marconi și al Anniei Jameson, fiica lui Daphne Castle din ținutul Wexford, Irlanda. A studiat la Bologna, Florența și Livorno.
+În anul 1894, a realizat o transmisie radiotelegrafică cu un aparat propriu, brevetat în 1896, iar în anul 1901, prima radiocomunicație telegrafică transatlantică. A mai inventat un detector magnetic (1902) și o antenă direcțională orizontală (1905).
+
+
+=== Lucrări în domeniul radio ===
+În tinerețe, Marconi a fost interesat de știință și electricitate. Una din descoperirile acelei perioade în acest domeniu a venit din partea lui Heinrich Hertz, care, începând cu 1888, a demonstrat că se pot produce și detecta radiații electromagnetice - cunoscute astăzi ca "unde radio", la acea vreme denumite "unde hertziene" sau "unde eterice". Moartea lui Hertz în 1894 a condus la publicarea unor recenzii ale descoperirilor acestuia, ceea ce i-a stârnit lui Marconi interesul. I s-a permis să studieze în acest domeniu cu profesorul Augusto Righi, un fizician de la Universitatea Bologna, care efectuase cercetări asupra lucrărilor lui Hertz.
+
+
+==== Primele dispozitive experimentale ====
+Marconi a început să efectueze experimente, construindu-și singur mare parte din echipament în podul casei sale de la Villa Griffone din Pontecchio, Italia. Scopul său era acela de a utiliza undele radio pentru a crea un sistem practic de "telegrafie fără fir" - adică de a transmite telegrame fără fire de legătură, așa cum era cazul cu telegraful electric. Aceasta nu era o idee nouă - numeroși alți cercetători exploraseră domeniul tehnologiilor telegrafiei fără fir în precedenții 50 de ani, dar nimeni nu avusese succes pe piață. Marconi nu a descoperit niciun principiu nou și revoluționar cu sistemul său telegrafic fără fir, ci a pus laolaltă și a îmbunătățit o serie de fapte, le-a unificat și le-a adaptat sistemului său. Sistemul lui Marconi avea următoarele componente:
+Un oscilator relativ simplu, modelat îndeaproape după cel proiectat de Righi, la rândul său similar cu ceea ce a folosit Hertz;
+Un cablu plasat la înălțime deasupra solului;
+Un detector de semnale, variantă modificată a dispozitivului original al lui Edouard Branly, îmbunătățit pentru creșterea sensibilității și fiabilității;
+O cheie de telegraf pentru a opera transmițătorul pentru trimiterea de impulsuri scurte și lungi, corespunzătoare liniilor și punctelor din alfabetul Morse;
+Un registru telegraf, activat de coeror, care înregistra punctele și liniile primite în Morse pe o bandă de hârtie.Configurații similare cu oscilatoare și coeroare fuseseră încercate și de alții, dar multe nu reușeau să obțină distanțe de transmisie mai mari de câteva sute de metri. Nu toți însă se opreau la aceste distanțe în domeniul transmisiunilor fără fir. 
+
+
+== Note ==
+
+
+== Legături externe ==
+en  Biografie Nobel
+en  Guglielmo Marconi
+en  Inregistrarea vocii lui Guglielmo Marconi
+Parintii telegrafului modern, 7 februarie 2008, Alexandra Zotta, Jurnalul Național

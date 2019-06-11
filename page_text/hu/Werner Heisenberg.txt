@@ -1,0 +1,70 @@
+Werner Karl Heisenberg (Würzburg, 1901. december 5. – München, 1976. február 1.) Nobel-díjas német fizikus, a kvantummechanika egyik megalapítója. Heisenberg vezette a háborús Németország nukleárisenergia-programját, szerepe máig vitatott. A Heisenberg által bevezetett határozatlansági reláció elve forradalmi fordulatot hozott a kvantummechanika fejlődésében, hatása a modern fizikára Albert Einstein relativitáselméletéével vetekszik.
+A sírfelirata: "Valahol itt nyugszik" (eredeti német: "Er liegt irgendwo hier").
+
+
+== Családja ==
+1901-ben született Würzburgban August Heisenberg gimnáziumi tanár, híres bizantinológus, és felesége, Annie Wecklein gyermekeként. Apja 1909-ben a müncheni egyetemen a közép- és újgörög nyelv egyetemi tanára lett. Heisenberg Münchenben járt iskolába és itt érettségizett 1920-ban. Ezután egyetemi tanulmányokat folytatott, elméleti fizikát tanult Arnold Sommerfeld alatt, és nála szerzett doktori fokozatot 1923-ban.
+1937. április 29-én Berlinben feleségül vette Elisabeth Schumachert. Hét gyermekük született.
+
+
+== Kvantummechanika ==
+
+Mint diák 1922-ben találkozott Niels Bohrral Göttingenben. Kettejük között gyümölcsöző kapcsolat alakult ki. 1923-ban Göttingenbe ment, ahol Max Born mellett tanársegéd lett. 1924-ben habilitálták magántanárrá. 1924-1925-ben ösztöndíjasként, majd 1926-ban asszisztensként Koppenhágában dolgozott Niels Bohr mellett.
+1925-ben fejlesztette ki a mátrixmechanikát, a kvantummechanika első egzakt megfogalmazását. A következő évben jelentkezett Erwin Schrödinger a hullámmechanikával, aki azt is megmutatta, hogy a két megfogalmazás ekvivalens. Heisenberg 1927-ben fedezte fel a határozatlansági relációt, ami szerint kanonikus konjugált mennyiségek egyszerre való pontos mérése elvi akadályba ütközik. Bohrral együttműködve fogalmazta meg a kvantummechanika koppenhágai interpretációját.
+1927-1941-ig a lipcsei egyetem fizikaprofesszora és az Elméleti Fizika Intézet igazgatója volt. 1928-ban doktori témavezetője lett az akkor odaérkező Teller Edének, aki 1930-ban doktorált. 1932-ben Heisenberg megkapta a fizikai Nobel-díjat "a kvantummechanika létrehozásáért, aminek alkalmazása többek között a hidrogén allotróp formáinak felfedezéséhez vezetett".
+A náci rezsim korai időszakában Heisenberget mint "fehér zsidót" zaklatták, amiért Albert Einstein elméletét oktatta a nácik által szentesített német fizika mozgalommal szemben. Egy Heisenberg által kezdeményezett átvilágítás után Heinrich Himmler, az SS vezetője 1938-ban megtiltott minden további zaklatást. Heisenberg levelét anyja adta át Himmler anyjának, akinek régi ismerőse volt, miután Heisenberg anyai nagyapja és Himmler apja korábban egy gimnáziumban tanítottak.
+1941–1945-ig a Berlini Egyetem, 1945–1955-ig a Göttingeni Egyetem, 1956-tól a müncheni Lajos–Miksa Egyetem elméleti fizika professzora, 1947-től a Max Planck Intézet igazgatója volt.
+
+
+== Háború alatti munkája ==
+
+
+=== Munkája és kételyei ===
+Az atommaghasadást Németországban fedezték fel 1939-ben. Heisenberg másoktól eltérően, akik elmenekültek, Németországban maradt a második világháború idején, így részt vett a németek kutatóprogramjaiban.
+Egy Walther Bothe vezette munkacsoportban dolgozott a németek számos atomfegyver/atomenergia programjának egyikén. Hozzájárulásának mértéke a háború után nagy vitákat gerjesztett. A fenntartható atommaghasadás módozatain és egy plutóniumreaktor kidolgozásán dolgozott, amelyet a Hechingeni barlangban szándékoztak felállítani. Egy másik, Kurt Diebner vezette kutatócsoport, köztük Paul Harteck, az urán dúsításán és urán alapú atombomba kifejlesztésén dolgozott. Egyik program sem vezetett eredményre.
+A háború után Heisenberget és más német fizikusokat a britek Farm Hallba vitték, ahol beszélgetéseiket lehallgatták. A jegyzőkönyvekből az tűnik ki, hogy Heisenberg félrekalkulálhatta az atombomba létrehozásához szükséges urán kritikus tömegét; nem vette figyelembe a kibocsátott lassú neutronok „részegember” kilengéseit, ezért azt hihette, a szükséges urántömeg túl nagy egy célba juttatható bomba létrehozásához. Amikor Heisenberg a hirosimai atombomba felrobbantásáról értesült, a jegyzőkönyvek szerint először meg volt győződve arról, hogy ez csak propagandatrükk lehet, mert a kritikus tömeg kezelhetetlenül nagy lenne. Néhány történész megkérdőjelezte a jegyzőkönyvek tartalmi hitelességét, hiszen Heisenberg minden bizonnyal tudta, hogy lehallgatják. Mások szerint az atomrobbantás miatti meglepetése nem lehetett színlelt, vagy hogy ezután már nyíltan beszélhetett, mert a saját tudása a témáról már nem járhatott következményekkel.
+Az atombomba program létezését Heisenberg közölhette Niels Bohrral, amikor 1941 szeptemberében Koppenhágában meglátogatta. Korábban életre szólónak látszó barátságuk a látogatás után mindenesetre hirtelen véget ért. Bohr később az amerikaiak Manhattan tervéhez csatlakozott.
+
+
+=== Erkölcsi aggályok? ===
+Ismert, hogy Heisenberg fő támogatója a nemzetiszocialista vezetésen belül Albert Speer birodalmi fegyverkezési miniszter volt, és hogy Speer megkísérelte elvonni a pénzforrásokat az atomfegyver-kutatásoktól. Emiatt még más nemzetiszocialista vezetőkkel is konfliktusba keveredett. Az SS ezért a háta mögött juttatott pénzt atomprogramokra.
+Mindebből sokan azt a következtetést vonták le, hogy Heisenbergnek erkölcsi aggályai voltak és szándékosan igyekezett lassítani a programot. Heisenberg is ezt a képet igyekezhetett festeni a háború után és ennek az interpretációnak az alapján készült Thomas Power Heisenberg's War ("Heisenberg háborúja") című könyve és Michael Frayn darabja, a Koppenhága. Mindez részben azon a tényen alapszik, hogy Heisenberg olyan módon ecsetelte a programot Speernek, amely nem keltette fel az érdeklődését és nem nyitotta ki a pénzcsapokat. Ugyanakkor Samuel Goudsmit, a későbbi Alsos projekt vezetője ezt annak tudta be, hogy Heisenberg maga sem volt meggyőződve az atombomba megvalósíthatóságáról.
+Heisenberg egy 1943-as levele a holland tudós Hendrik Casimirnek német nacionalistának mutatja: "A történelem nyújt legitimációt Németországnak, hogy kormányozza Európát és később a világot. Csak egy olyan nemzet tudja fenntartani magát, amely könyörtelenül kormányoz. A demokrácia nem gyűjthet elég energiát ahhoz, hogy Európát kormányozhassa. Így csak két lehetőség marad: Németország, vagy Oroszország, és Európa német vezetés alatt talán a kisebbik rossz." (Blood and Water, Dan Kurzman, 1997, 35. o., ISBN 0-8050-3206-1)
+
+
+=== A Bohr-levél ===
+2002 februárjában, miután a Koppenhága újra felkeltette az érdeklődést a téma iránt, a Niels Bohr Levéltár közzétette Bohr egy 1957-ben Heisenbergnek írt, de el nem küldött levelét. Ebben a szemére hányja, hogy 1941-es beszélgetésükben nem fejezett ki morális aggályt a bombaprogrammal szemben, hogy a korábbi két évben szinte csak ezen dolgozott és meg volt győződve róla, hogy a bomba fogja eldönteni a háború sorsát. A levél reakció lett Robert Jungk újságíró "Fényesebb, mint ezer nap" című írására, amelyben úgy festette le Heisenberget, mint aki célzatosan, erkölcsi megfontolásokból kisiklatta a német atombomba programot. A cikkben Jungk felhasználta Heisenberg egy levelének egy részletét is a kontextusból kiragadva, holott a levél egésze sokkal kevésbé nyilvánvalóan foglalt el morális álláspontot.
+Néhány történész Bohr levelét bizonyítéknak tekintette, hogy Heisenberg morális ellenállásáról szóló korábbi interpretáció téves volt. Mások szerint viszont Bohr teljesen félreérthette Heisenberg szándékait az 1941-es találkozás során, és reakciója Jungk írására túl szenvedélyes volt. Bizonyítékként a Bohr levélnek így nem volt nagy szerepe. (A nagy érdeklődést inkább annak köszönhette, hogy a történészek korábban évekig sürgették a Bohr-levelezés nyilvánosságra hozását, de a család ellenállt ennek az igénynek. Végül a publikáláskor kiderült, hogy a levelek nem tartalmaztak semmilyen lényeges történelmi újdonságot.)
+
+
+== Irodalom ==
+Werner Heisenberg, A rész és az egész, Gondolat, Budapest, 1975.
+Elisabeth Heisenberg, Egy politika nélküli ember politikus élete, Holnap Kiadó, Budapest, 1993.
+
+
+== További információk ==
+Itt elsősorban a magyar írásokat gyűjtöttük össze, az angol és német Wikipédián és a Bencze Gyula 2002-es cikkében számos további hivatkozás található.
+
+
+=== Heisenberg–Bohr beszélgetés az atombombáról, Heisenberg és a német atomprogram ===
+Werner Heisenberg és Niels Bohr beszélgetése Koppenhágában (Teller Ede, Wigner Jenő és Gábor Dénes emlékei), Fizikai Szemle, 2002/3. 76.o.
+Balogh Vilmos Szilárd: Gyertyák a ház előtt, Mérleg, 1997/2, 202-218.o.
+Bencze Gyula: Fizikusok II., Természet Világa, 2000/11.
+Bencze Gyula: Valóban megoldódott a koppenhágai rejtély?, Természet Világa, 2002/6.
+A német uránprogram (Alvin M. Weinberg és Hans Bethe cikkei Heisenberg szerepéről), Fizikai Szemle 2000/10. 354.o.
+
+
+== Kapcsolódó szócikkek ==
+Heisenberg-féle határozatlansági elv
+Kvantummechanika
+
+
+=== Személyek ===
+Niels Bohr
+Erwin Schrödinger
+Albert Einstein
+Wolfgang Pauli
+
+
+=== Sci-fi ===
+Heisenberg szeme

@@ -1,0 +1,90 @@
+A történetíró feljegyzései (hagyományos kínai: 史記; egyszerűsített kínai: 史记; pinjin (pinyin) hangsúlyjelekkel: Shǐ jì; magyar népszerű átírásban: Si csi)  a legjelentősebb ókori kínai történeti munka. Szerzője Sze-ma Csien (Sima Qian), a „kínai történetírás atyja”.  A mű valószínűleg i. e. 109–91 között íródott. A Huszonnégy történeti mű néven emlegetett, kínai hivatalos történeti művek első gyűjteménye. Hatása az utókorra felmérhetetlen: nemcsak a kínai ókor történelmének legfontosabb forrásaként szolgál, hanem nyelvezetében, szerkezetében és történetírói módszereiben is mintakép volt a későbbi kínai történetírók számára.
+
+
+== Keletkezésének háttere ==
+A Si-csi (Shiji) valószínűleg Kr. e. 109–91 között íródott.
+
+
+== Stílusa ==
+Sze-ma Csien (Sima Qian) a Si-csi (Shiji) megírásakor mindenben a tényszerűségre törekedett, forrásait gondosan megválogatta, ugyanakkor a korai időkről természetesen nem állt megbízható forrás a rendelkezésére. Minél közelebb volt időben egy esemény Sze-ma Csien (Sima Qian) életéhez, annál megbízhatóbbnak tekinthető a Si-csi (Shiji) beszámolója. Ez azonban csak a tényekre, cselekedetekre vonatkozik, a párbeszédekre, beszédekre nem. Ez utóbbiak zömét valószínűleg a történetíró maga találta ki.
+
+
+== Szerkezete ==
+A Si-csi (Shiji) igen terjedelmes munka, legelterjedtebb modern kiadása tíz kötetet tesz ki, és a szöveg mintegy félmillió írásjegyet tartalmaz. Célja szerint az egész – a kínaiak számára ismert – világ történetét tartalmazza a történeti idők kezdetétől (az ún. „Öt császár” korától) egészen a történetíró koráig, Han Vu-ti (Han Wudi) (i.e. 156 – i.e. 87.) császár uralkodásáig.
+Szerkezetét tekintve Sze-ma Csien (Sima Qian) újszerű megoldást választott: a korábban elterjedt kronologikus évkönyv vagy államonként összegyűjtött történetgyűjtemény helyett a rendelkezésére álló anyagot öt fejezettípusban dolgozta fel. Ezek a következők:
+
+1–12. fejezet: „alapvető évkönyvek” (pencsi (benji)). Ebben a részben Sze-ma Csien (Sima Qian) azoknak az uralkodóházaknak, illetve uralkodóknak a történetét tárgyalja, akik hatalmukat – legalábbis a hagyomány szerint – egész Kína felett gyakorolták. Alapvető évkönyv részletezi például a Hszia (Xia)-, a Sang (Shang)-, a Csou (Zhou)-dinasztia történetét, Csin (Qin) állam históriáját a birodalomegyesítésig, és külön évkönyvet kapott Csin Si Huang-ti (Qin Shi Huangdi), majd a Han-dinasztia legtöbb császára.13–22. fejezet: „táblázatok” (piao (biao)). Címüknek megfelelően ezek a fejezetek időrendi táblázatokat tartalmaznak, amelyekben Sze-ma Csien (Sima Qian) az ország különböző részeiben történt események relatív és abszolút kronológiáját igyekszik tisztázni.23–30. fejezet: „értekezések” (su (shu)). Ebben a nyolc fejezetben a történetíró olyan általános témákat tárgyal esszé formában, amelyek nem illettek bele a többi fejezettípus időrendi keretei közé. Ilyen például az áldozatok, a folyók és csatornák, valamint a gazdasági intézkedések dinasztiákon átnyúló története. Sajnos az értekezések egy része töredékes, befejezetlennek tűnik.31–60. fejezet: „örökletes házak” (sicsia (shijia)). Ez a harminc fejezet főleg a Csin (Qin)-kor előtti fejedelmi családok történetét tárgyalja, vagyis az olyan családokét, amelyek – az alapvető évkönyvekben tárgyaltaktól eltérően – Kínának csupán egy meghatározott részében uralkodtak örökletes módon. Ez a rész tehát gyakorlatilag a Csou (Zhou)-kori fejedelemségeknek a története. Érdekes módon két olyan személyiség is külön fejezetet kapott ebben a részben, akik kevésbé illenek ide: az egyik Konfuciusz, aki, mint ismeretes, soha nem volt uralkodó, sőt valószínűleg még főhivatalnok sem; a másik Csen Sö (Chen She), aki egyszerű parasztfelkelő volt, az első azok közül, akik fellázadtak a kínai császár ellen.61–130. fejezet: „életrajzok” (liecsuan (liezhuan)) . Ez a Si-csi (Shiji) legterjedelmesebb része, 70 fejezet tartozik ide. A liecsuan (liezhuan)ok nagy része egy-egy történelmi személyiség vagy személyek meghatározott csoportjának élettörténetét tartalmazza. Ugyanakkor a liecsuan (liezhuan) tárgya nem csak személy lehet, ide tartoznak például az idegen, „barbár” népek is. Az életrajzok a Si-csi (Shiji) legolvasmányosabb fejezetei, az itt található történetek, anekdoták a későbbi irodalmi művek kimeríthetetlen forrásául szolgáltak. Meg kell azonban jegyezni, hogy a Sze-ma Csien (Sima Qian)-féle – és általában a kínai – „életrajz” nemigen hasonlít a nyugati biográfiára. Célja nem az adott illető személyiségének és teljes élettörténetének bemutatása, hanem annak a személyiségtípusnak a jellemzése, amelybe az illető tartozott. Éppen ezért a kínai életrajzok nagy része nem ad átfogó képet a tárgyalt személyről: csupán a személy legfontosabb adatait (születési hely, felmenők), életének legfontosabb eseményeit, valamint az élettörténetben fordulópontnak tekintett eseményekhez kötődően egy-egy történetet, anekdotát tartalmaz. Ez utóbbit az életrajzírók nagyon gyakran egy-egy párbeszéd, szónoklat, esetleg levél egyenes idézésével beszélik el. A kínai történetírói hagyományban egy idő után uralkodóvá vált az írott források idézeteinek halmozása, de Sze-ma Csien (Sima Qian)re ez még nem jellemző: művét az teszi élvezetessé, hogy levelek, beadványok idézgetése helyett szereplőit drámai szituációkban, szinte színpadias hatást keltve ábrázolja.
+
+
+== Tartalma ==
+
+
+=== Évkönyvek ===
+Az első, "Évkönyvek" (Pen-csi (Benji) 本紀) elnevezésű rész a következő 12 fejezetet tartalmazza:
+
+
+=== Táblázatok ===
+A második "Táblázatok" (Piao (Biao) 表) elnevezésű részt a következő 10 fejezet tartalmazza:
+
+
+=== Értekezések ===
+A harmadik, az "Értekezések" (Su (Shu) 書) elnevezésű részt az alábbi  8 fejezet tartalmazza:
+
+
+=== Genealógiák ===
+A negyedik, a "Geneaológiák" (Si-csia (Shijia) 世家) címet viselő rész az alábbi 30 fejezetet tartalmazza:
+
+
+=== Életrajzok ===
+Az ötödik, az "Életrajzok" (Lie-csuan (Liezhuan) 列傳) címet viselő részt a következő 70 fejezetet tartalmazza:
+
+
+=== Utószó ===
+
+
+== Hatása ==
+Hatása az utókorra felmérhetetlen: nemcsak a kínai ókor történelmének legfontosabb forrásaként szolgál, hanem nyelvezetében, szerkezetében és történetírói módszereiben is mintakép volt a későbbi kínai történetírók számára.
+
+
+== Hivatkozások ==
+
+
+=== Megjegyzések ===
+
+
+=== Források ===
+
+
+== Irodalom ==
+
+
+=== Idegen nyelven ===
+↑ Durrant 1986:  Stephen Durrant. "Shih-chi 史記". In William Nienhauser (szerk.). The Indiana Companion to Traditional Chinese Literature, Vol. 1, Bloomington: Indiana University Press.
+↑ Hulsewé 1993:  A. F. P. Hulsewé. "Shih chi 史記". In Michael Loewe (szerk.). Early Chinese Texts: A Bibliographical Guide. The Society for the Study of Early China and the Institute of East Asian Studies, University of California. pp. 405-416. ISBN 1-55729-043-1
+↑ Nienhauser 1994a:  Nienhauser, William J.(szerk.). The Grand Scribe’s Records I: The basic annals of pre-Han China. Bloomington: Indiana University Press.
+↑ Nienhauser 1994b:  Nienhauser, William J.(szerk.). The Grand Scribe’s Records VII: The memoirs of pre-Han China. Bloomington: Indiana University Press.
+↑ Nienhauser 2002:  Nienhauser, William J.(szerk.). The Grand Scribe’s Records II: The basic annals of pre-Han China. Bloomington: Indiana University Press.
+↑ Nienhauser 2006:  Nienhauser, William J.(szerk.). The Grand Scribe’s Records V.1: The hereditary houses of pre-Han China. Bloomington: Indiana University Press.
+↑ Nienhauser 2008:  Nienhauser, William J.(szerk.). The Grand Scribe’s Records VIII: The memoirs of Han China. Bloomington: Indiana University Press.
+↑ Watson 1993a:  Watson, Burton. Records of the Grand Historian of China. Qin Dynasty. Hong Kong: The Research Centre for Translation. The Chinese University of Hong Kong. New York, Columbia University Press. ISBN 0-231-08168-5 (hbk); ISBN 0-231-08169-3 (pbk)
+↑ Watson 1993b:  Watson, Burton. Records of the Grand Historian of China. Han Dynasty II. (Javított kiadás). New York, Columbia University Press. ISBN 0-231-08168-5 (hbk); ISBN 0-231-08167-7 (pbk)
+
+
+=== Magyar fordítások ===
+↑ Du-Horváth 1997:  Sima Qian: A hunok legkorábbi története. A Shi ji 110. kötete. Fordította: Du Yaxiong és Horváth Izabella. Magyar Ház. Peking 1997. ISBN 963 9335 06 1
+↑ Gulyás 2009:  Gulyás Csenge. A Bérgyilkosok életrajza a Shijiben. Szakdolgozat. ELTE BTK Kínai-szak. Budapest 2009.
+↑ Lázár 2008:  Lázár Ervin. A Déli-Yue királyság története: a Shiji idevágó részeinek fordítása. Szakdolgozat. ELTE BTK Kínai-szak. Budapest 2008.
+↑ Nánai 2005:  Nánai Erika. A Han Birodalom születése: Xiang Yu évkönyve a Történetíró feljegyzéseiben. Szakdolgozat. ELTE BTK Kínai-szak. Budapest 2005.
+↑ Salát 2003:  Salát Gergely. "Az Első Császár évkönyvei a Shijiben". In: Kínai nyelv és irodalom: Tanulmányok Csongor Barnabás 80. születésnapjára. Szerk. Hamar Imre – Salát Gergely. Budapest: Balassi Kiadó, 2003. pp. 151-177.
+↑ Tokaji 1999:  Tokaji Zsolt. Szemelvények A Történetíró feljegyzéseiből. A két Szun-ce és Wu K'i életrajza. In: Kínai-Magyar Irodalmi Gyűjtemény. II/5. Balassi Kiadó, Budapest 1999. pp. 5-31.
+↑ Tőkei Ferenc 1986a:  Kínai filozófia. Ókor. 2. kötet. Válogatta, fordította, a bevezetést és a jegyzeteket írta: Tőkei Ferenc.  Akadémia Kiadó. Budapest, 1986. (Harmadik, változatlan kiadás) ISBN 963 05 4295 1
+↑ Tőkei Ferenc 1986b:  Kínai filozófia. Ókor. 3. kötet. Válogatta, fordította, a bevezetést és a jegyzeteket írta: Tőkei Ferenc.  Akadémia Kiadó. Budapest, 1986. (Harmadik, változatlan kiadás) ISBN 963 05 4296 X
+
+
+== Lásd még ==
+Sze-ma Csien
+Kínai ókor
+
+
+== Külső hivatkozás ==
+[1] A Si csi (Shi ji) eredeti szövege angol nyelvű szószedettel

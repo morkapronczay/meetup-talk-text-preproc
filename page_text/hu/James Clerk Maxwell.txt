@@ -1,0 +1,78 @@
+James Clerk Maxwell (Edinburgh, 1831. június 13. – Cambridge (Anglia), 1879. november 5.), skót matematikus-fizikus.
+Maxwell volt az, aki egy összefoglaló egyenletrendszerbe írta le az elektromosság és a mágnesesség törvényeit, ezen kívül a nevéhez fűződik a Maxwell-eloszlás, a gázok mozgásának elmélete.
+Maxwell korának legjobb matematikusa volt az elméleti fizikusok között. A tizenkilencedik század megbecsült tudósa, akinek nagy befolyása volt a huszadik századi fizikára és hozzájárult a természet fizikai alapmodelljének elkészítéséhez. 1931-ben, Maxwell születésnapjának századik évfordulóján, Einstein ezt mondta a munkásságáról: „A legalaposabb és legtermékenyebb fizikus volt Newton óta.”
+Matematikai algebra geometriai elemekkel jellemzi Maxwell munkájának nagy részét. Megmutatta, hogy az elektromos és mágneses erő az elektromágnesesség két kiegészítő nézőpontja. Bebizonyította, hogy a mágneses és elektromos mező a térben hullámok formájában terjedhet (vákuumban konstans 3,0·108 m/s sebességgel). Feltételezte, hogy a fény is elektromágneses sugárzás.
+
+
+== Életpályája ==
+
+
+=== Gyermekkora ===
+Maxwell Edinburghban született Skóciában, John Clerk ügyvéd egyetlen gyermekeként. Háromévesen már nagy érdeklődéssel fordult a világ felé. Bármi ami mozgott, csillogott vagy hangot adott, felkeltette érdeklődését.Maxwell oktatását keresztény édesanyja kezdte el, beleértve a Biblia megtanítását is. Gyermekkorának nagy részét a családi birtokon töltötte Glenlairben, Dumfries mellett. Nyolcéves volt, amikor meghalt édesanyja. Maxwell ezután az Edinburgh Akadémián töltötte fiatalságát. Az iskolában „Bolondos” volt a beceneve, mert az első napon egy házilag készített cipőben jelent meg. 1845-ben, 14 évesen írt egy tanulmányt, amelyben bemutatja mechanikai eszközök képét, matematikai függvényeit egy darab spárgával.
+
+
+=== Felnőtt évei ===
+1847-ben, Maxwell az Edinburgh-i Egyetemen etikát, természettudományokat hallgat. Edinburgh-ban, William Hamilton báró tanítványa. Tizennyolc évesen, amíg az Edinburgh-n van, két tanulmányt ír az Edinburgh Királyi Társasága című kiadványba, az egyik a Szilárdtestek rugalmas egyensúlya. Lefektette alapjait későbbi legfontosabb felfedezésének, ideiglenes kettős fénytörés keletkezése viszkózus folyadékban, nyíró feszültség esetén. 1850-ben Maxwell a Cambridge-i Egyetemre ment, ahol először a Peterhouse College-ba iratkozott be, de később átment a Trinity College-ba, mert úgy gondolta, hogy ott könnyebben kap ösztöndíjat. A Trinityben beválasztják egy titkos társaságba, ami a Cambridge-i Apostolokként ismert. 1851 novemberében Maxwell William Hopkins (beceneve „balhézó”) tanítványa. Az elektro-magnetika egyenletek tekintélyes részének kiszámítása kemény munka Maxwellnek, de kiváló előmeneteli lehetőség egy egyetemistának a Trinity-n.
+1855-től 1872-ig időnként publikált részeket az értékeléséből a vizsgálatával a szín-érzékeléssel, színvaksággal kapcsolatban, az előbbiért Rumford-medált kapott a Királyi tanácstól 1860-ban. Az eszközök, amiket kitalált a vizsgálatokra, nagyon egyszerűek és jól használhatóak voltak. Például a Maxwell-lemezek, ezeket használta arra, hogy változtatható keveréket tudjon előállítani a 3 elsődleges színből és megfigyelhesse a forgás közben kialakuló színt. 1856-ban Maxwell meghívást kapott a Természettudományi Karra a Marischal Főiskolára Aberdeenbe.
+1859-ben megkapta az Adams díjat Cambridge-ben, az eredeti Szaturnusz gyűrűinek stabilitása című esszéjéért, amiben kimondta, hogy a gyűrűk nem lehetnek teljesen szilárdak vagy gázneműek. Maxwell megmutatta: a stabilitást biztosítja, ha a gyűrűk számtalan apró részből állnak. 1860-ban professzor volt Londonban a Királyi Főiskolán. 1861-ben Maxwellt beválasztották a királyi tanácsba. A szilárd testek rugalmasságát és a tiszta geometriát vizsgálta ebben az időszakban.
+
+
+==== Kinetikus elmélete ====
+Maxwell egyik legjelentősebb vizsgálata a gázok kinetikájának elmélete. Eredetileg Daniel Bernoulli fedezte fel, ez az elmélet kibővült az utána következő John Herapath, John James Waterston, James Joule, és részben Rudolf Clausius laboreredményeivel. De ez hatalmas kutatást igényelt Maxwelltől, aki így tapasztalatai alapján is kitűnt, nem csak mint matematikus.
+1865-ben Maxwell visszament Glandale-be és elrejtőzött édesapjánál. 1868-ban visszakapta a Fizika és Asztrológia Kar vezetését a Királyi főiskolán Londonban.
+
+
+==== Elektromágnesség ====
+Maxwell életének legtöbb munkája az elektromossághoz kapcsolódik. Legfontosabb közreműködése abban áll, hogy kiterjesztette a korábbi tudósok (mint Michael Faraday, André-Marie Ampère stb.) elektromos és mágneses felfedezéseinek matematikai formuláit, és egy összekapcsolódó differenciálegyenlet-gyűjteménybe foglalta össze. (Eredetileg 20 egyenlet és 20 változó, később ezeket leegyszerűsítette 4-re és vektoriális alakra írta át.)
+Ezeket az egyenleteket, melyeket mára Maxwell-egyenletek néven ismerünk (vagy esetenként „Maxwell csodálatos egyenletei”), először 1864-ben mutatta be a királyi tanácsnak és ezek közösen írták le az elektromos és mágneses mezők kölcsönhatását.
+Ezen kívül Maxwell megmutatta azt is, hogy az egyenletek szerint a gyors változás biztosítja, hogy az elektromos és mágneses mező a térben terjedni tudjon. A terjedési sebességet az abban az időben meglevő kezdetleges elektromos eszközök miatt csak megjósolni tudta. Maxwell ennek értékét 310 740 000 m/s-ra becsülte. (Nem tévedett sokat, a valós sebesség a fénysebesség.)
+Maxwell (1865) :
+
+„Ez az érték közel van a fénysebességhez, ami azt mutatja, erős okunk van feltételezni, hogy a fény is (beleértve a hő és egyéb sugárzásokat) egy elektromágneses hullám, ami elektromágneses mezőben terjed.”
+
+
+==== Késői évei ====
+
+Maxwell szintén hozzájárult az optika és a színes látás kutatásához és megbecsülést szerzett magának a felfedezéssel, hogy a színes fényképek előállíthatók piros, kék és zöld szűrőkkel. Rábeszélte a fotós Thomas Sutton-t, hogy készítsen fényképet egy szalagról, minden alkalommal más színes szűrőt használva a lencse előtt. A 3 kép elkészítése után ezeket egyszerre vetítette ki 3 különböző vetítővel, mindegyiknél olyan szűrőt használva, mint amilyennel a kép készült. Amikor beállította az élességet, a három kép egyetlen színes képet alkotott. A három fénykép ma egy kis múzeumban van kiállítva Edinburgh-ban, az India utca 14. szám alatt, a házban, ahol Maxwell született.
+Maxwell feleségül vette a 27 éves Katherine Mary Dewart, de gyermekük nem született. Cambridge-ben halt meg hasüregrákban 48 évesen. Őszinte keresztény volt egész életében. A teljes életrajzát James Clerk Maxwell élete címmel egykori iskolatársa és örök barátja, Lewis Campbell professzor jelentette meg 1882-ben, a teljes életművét pedig, beleértve a cikkeit Atomok, Kohéziós erők, Kapilláris hatás, Diffúzió, Éter stb. a Cambridge Egyetem jelentette meg 2 kötetben 1890-ben.
+
+
+=== Költemények és dalok ===
+Nagy szerelmese volt a költészetnek, Maxwell megtanulta a költeményeket és sajátokat is írt. A legismertebb a Rigid Body Sings, ami a Comin' Through the Rye című Robert Burns mű átirata, amit nyilvánvalóan ő énekelt, miközben kísérte magát gitáron. Halhatatlan kezdő sorai[1]:
+
+Gin a body meet a body, Flyin' through the air.
+Gin a body hit a body, Will it fly? And where?A költeményeit Lewis Campbell jelentette meg 1882-ben.
+
+
+== Munkássága ==
+Ő volt a legjelentősebb képviselője az ismert skót Penicuik család fiatalabb ágának.
+Maxwell dolgozta ki azokat az egyenleteket, amelyek az elektromosság és mágnesesség alapvető törvényeit leírják, továbbá a gázok kinetikus elméletében a Maxwell–Boltzmann-eloszlást.
+Sokak szerint ő volt a 19. század legnagyobb tudósainak egyike, aki leginkább befolyásolta a 20. század fizikáját. 1931-ben, születésének centenáriumán Einstein Maxwell művét úgy írta le, mint „a legmélyebb és leggyümölcsözőbb, amit a fizika tapasztalt Newton kora óta.”
+
+
+== Emlékezete ==
+A mágneses fluxus származtatott CGS egysége az ő tiszteletére viseli a maxwell (Mw) nevet. A nevét viseli a Vénusz egyik hegységrendszere, a Maxwell Montes (ez az egyetlen eset, hogy egy férfiről neveztek el valamit a Vénuszon). A James Clerk Maxwell Épület (1977-ben épült) az Edinburgh Egyetemen és a 15 méter átmérőjű James Clerk Maxwell távcső, a világ legnagyobb, mm alatti tartományban működő csillagászati távcsöve szintén róla kapta a nevét. Ez a legnagyobb asztronómiai teleszkóp a világon. Természetesen Londonban is van egy épület, amit róla neveztek el a Királyi Főiskolán a Waterloo-i egyetemi városban ami szintén őrzi emlékét hogy a természet tudományok professzora volt 1860 és 1865 között a főiskolán. Az egyetemen szintén van egy kar a fizika tanszéken amit róla neveztek el az egyetemisták. Cambridge-ben, James Clerk Maxwell út fut a Cavendish Laboratórium mellett.
+
+
+== Publikációi ==
+Maxwell, James Clerk, „Ovális görbék leírása, és a többszörös fókuszúak”. Proceedings of the Royal Society of Edinburgh, Vol. ii. 1846.
+Maxwell, James Clerk, „Gázok dinamikájának elmélete és szemléltetése ”. 1860.
+Maxwell, James Clerk, „A fizikai erővonalak”. 1861.
+Maxwell, James Clerk, „Az elektromágneses mező dinamikájának elmélete”. 1865.
+Maxwell, James Clerk, „Sebességhatárolás”. From the Proceedings of the Royal Society, No.100. 1868.
+Maxwell, James Clerk, „Hőelmélet”. 1871.
+Maxwell, James Clerk, „Értekezés az elektromosságról és a mágnesességről”. Clarendon Press, Oxford. 1873.
+Maxwell, James Clerk, „Molekulák”. Nature, September, 1873.
+Maxwell, James Clerk, „Anyag és mozgás”, 1876.
+Maxwell, James Clerk, „Alkalmazott összegzés Bernoulli elméletéről a gázok belső súrlódására, diffúziójára és hővezető képességére”.
+Maxwell, James Clerk, „Éter”, Encyclopedia Britannica, Ninth Edition (1875-89).
+
+
+== Források ==
+
+
+== Fordítás ==
+Ez a szócikk részben vagy egészben  a   James Clerk Maxwell című angol Wikipédia-szócikk fordításán alapul.  Az eredeti cikk szerkesztőit annak laptörténete sorolja fel.
+
+
+== Hivatkozások ==

@@ -1,0 +1,21 @@
+Nikolaus August Otto (n. 14 iunie 1832, Holzhausen an der Haide, Nassau; d. 26 ianuarie 1891, Köln) a fost un inventator german, născut în Ducatul Nassau. A locuit în Franța unde s-a interesat de mașinile cu gaz ale inginerului francez Etienne Lenoir.
+Otto a fost inventatorul primului motor cu combustie internă care ardea în mod eficient combustibilul direct într-o cameră cilindrică cu piston mobil, mișcarea efectuându-se de-a lungul generatoarei cilindrului. Deși fuseseră inventate și alte motoare cu combustie internă (de exemplu, de către Etienne Lenoir), acestea nu s-au bazat pe patru timpi separați. Conceptul de patru timpi este posibil să fi fost deja  discutat la data invenției lui Otto, dar el a fost primul care l-a pus în practică.
+
+
+== Ciclul Otto ==
+Motorul Otto a fost conceput ca un motor staționar; acțiunea motorului constă într-o mișcare în sus sau jos a unui piston într-un cilindru. Otto l-a vândut doar ca pe un motor staționar.
+Utilizat mai târziu drept motor de automobil, într-o formă adaptată, sunt implicați patru timpi sus-jos:
+
+Admisie descendentă - cărbune, gaz și aer intră în camera pistonului.
+Compresie adiabatică în sens ascendent - pistonul comprimă amestecul.
+Ardere și destindere adiabatică descendentă - amestecul de combustibile se aprinde printr-o scânteie electrică și arde.
+Evacuarea ascendentă – degajă gazele de eșapament din camera pistonului.
+
+
+== Brevete anterioare ==
+Potrivit recentelor studii istorice inventatorii italieni Eugenio Barsanti și Felice Matteucci au brevetat o primă versiune care funcționa eficient a unui motor cu combustie internă în 1854 în Londra (patent nr. 1072). Se susține că motorul Otto este în multe privințe inspirat din precedentele invenții ale acestuia, dar, deocamdată nu există nicio documentație despre un motorul de inspirație italiană creat de Otto.
+
+
+== Legături externe ==
+U.S. Patent 0194047—1877
+U.S. Patent 0365701
