@@ -1,0 +1,6 @@
+wikipedia
+tqdm
+nltk
+gensim
+pandas
+matplotlib
